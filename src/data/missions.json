@@ -1,0 +1,88 @@
+{
+  "salvationScriptures": [
+    {
+      "reference": "John 3:16",
+      "theme": "God's love and eternal life"
+    },
+    {
+      "reference": "Romans 3:23",
+      "theme": "Human need for salvation"
+    },
+    {
+      "reference": "Romans 6:23",
+      "theme": "Sin, grace, and eternal life"
+    },
+    {
+      "reference": "Romans 10:9-10",
+      "theme": "Confession and faith"
+    },
+    {
+      "reference": "Ephesians 2:8-9",
+      "theme": "Saved by grace through faith"
+    },
+    {
+      "reference": "Acts 4:12",
+      "theme": "Salvation in Christ alone"
+    },
+    {
+      "reference": "2 Corinthians 5:17",
+      "theme": "New creation in Christ"
+    },
+    {
+      "reference": "1 John 1:9",
+      "theme": "Forgiveness and cleansing"
+    }
+  ],
+  "conversationStarters": [
+    "Has faith ever helped you through a difficult season?",
+    "Can I share a verse that has encouraged me?",
+    "What gives you hope when life feels uncertain?",
+    "Do you have anything I can pray about?",
+    "Have you ever wondered what the Bible says about peace with God?"
+  ],
+  "sevenDayPlan": [
+    "Pray for one person by name.",
+    "Share one testimony of God's goodness.",
+    "Send an encouraging scripture to someone.",
+    "Invite someone to read a Bible passage with you.",
+    "Ask someone how you can pray for them.",
+    "Share the gospel simply and respectfully.",
+    "Follow up with encouragement and prayer."
+  ],
+  "thirtyDayChallenge": [
+    "Pray daily for open doors.",
+    "Study one salvation scripture.",
+    "Encourage one person.",
+    "Serve someone practically.",
+    "Invite someone to church or Bible study.",
+    "Share a testimony.",
+    "Follow up with prayer."
+  ],
+  "gospelGuide": {
+    "title": "Simple Gospel Presentation",
+    "steps": [
+      "God loves us and created us for fellowship with Him.",
+      "Sin separates humanity from God.",
+      "Jesus Christ died and rose again to save us.",
+      "Salvation is received by grace through faith.",
+      "We respond by repentance, faith, and following Christ."
+    ],
+    "closingPrayer": "Lord Jesus, I believe You died and rose again. Forgive my sins, make me new, and help me follow You. Amen."
+  },
+  "followUpPlan": [
+    "Pray with the person again within 24 hours.",
+    "Encourage them to read the Gospel of John.",
+    "Help them begin a simple prayer habit.",
+    "Connect them with a Bible-believing church or group.",
+    "Check in weekly for encouragement and questions."
+  ],
+  "missionaryPrayerCalendar": [
+    "Pray for missionaries' protection.",
+    "Pray for open doors in unreached places.",
+    "Pray for provision and strength.",
+    "Pray for families serving in ministry.",
+    "Pray for courage to share Christ locally.",
+    "Pray for Bible translation and discipleship.",
+    "Pray for new believers to grow strong."
+  ]
+}

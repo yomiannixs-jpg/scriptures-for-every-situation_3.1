@@ -1,0 +1,80 @@
+{
+  "tools": [
+    {
+      "id": "verse-explainer",
+      "title": "Verse Explainer",
+      "prompt": "Explain this Bible verse with context, meaning, application, and a short prayer.",
+      "fields": [
+        "Bible verse or passage"
+      ]
+    },
+    {
+      "id": "chapter-summary",
+      "title": "Chapter Summary",
+      "prompt": "Summarize this Bible chapter with key themes, outline, main lesson, and application.",
+      "fields": [
+        "Book and chapter"
+      ]
+    },
+    {
+      "id": "character-study",
+      "title": "Character Study",
+      "prompt": "Create a Bible character study with background, strengths, weaknesses, key scriptures, and lessons.",
+      "fields": [
+        "Bible character"
+      ]
+    },
+    {
+      "id": "topic-study",
+      "title": "Topic Study",
+      "prompt": "Create a biblical topic study with scriptures, explanation, practical application, and reflection questions.",
+      "fields": [
+        "Topic"
+      ]
+    },
+    {
+      "id": "sermon-pro",
+      "title": "Sermon Builder Pro",
+      "prompt": "Generate a sermon with title, text, introduction, three main points, illustrations, application, and closing prayer.",
+      "fields": [
+        "Sermon topic",
+        "Audience",
+        "Length"
+      ]
+    },
+    {
+      "id": "lesson-builder",
+      "title": "Bible Lesson Builder",
+      "prompt": "Build a Bible lesson with objective, scriptures, teaching notes, discussion questions, activity, and prayer.",
+      "fields": [
+        "Lesson topic",
+        "Audience"
+      ]
+    },
+    {
+      "id": "small-group",
+      "title": "Small Group Builder",
+      "prompt": "Create a small group guide with icebreaker, Scripture, discussion questions, application, prayer points, and leader notes.",
+      "fields": [
+        "Group topic",
+        "Group type"
+      ]
+    },
+    {
+      "id": "devotion-generator",
+      "title": "Devotion Generator",
+      "prompt": "Generate an original devotion with story, Bible reading, reflection questions, action step, declaration, and prayer.",
+      "fields": [
+        "Devotion topic"
+      ]
+    }
+  ],
+  "starterExamples": [
+    "Explain Romans 8:28",
+    "Summarize John 15",
+    "Character study on David",
+    "Topic study on forgiveness",
+    "Sermon on faith under pressure",
+    "Small group lesson on prayer"
+  ]
+}

@@ -1,0 +1,1238 @@
+[
+  {
+    "id": "foundations",
+    "title": "Foundations of Faith",
+    "description": "A structured Christian training path focused on foundations of faith with lessons, Scripture, reflection, quiz, XP, and completion tracking.",
+    "certificate": "Foundations of Faith Graduate",
+    "lessons": [
+      {
+        "id": "foundations-1",
+        "lessonNumber": 1,
+        "title": "Salvation",
+        "scripture": "John 3:16",
+        "teaching": "Salvation is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about salvation?",
+          "Where do I need to grow in salvation?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Salvation?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "foundations-2",
+        "lessonNumber": 2,
+        "title": "Repentance",
+        "scripture": "Acts 2:38",
+        "teaching": "Repentance is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about repentance?",
+          "Where do I need to grow in repentance?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Repentance?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "foundations-3",
+        "lessonNumber": 3,
+        "title": "Faith",
+        "scripture": "Hebrews 11:1",
+        "teaching": "Faith is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about faith?",
+          "Where do I need to grow in faith?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Faith?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "foundations-4",
+        "lessonNumber": 4,
+        "title": "Grace",
+        "scripture": "Ephesians 2:8-9",
+        "teaching": "Grace is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about grace?",
+          "Where do I need to grow in grace?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Grace?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "foundations-5",
+        "lessonNumber": 5,
+        "title": "Water Baptism",
+        "scripture": "Matthew 28:19",
+        "teaching": "Water Baptism is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about water baptism?",
+          "Where do I need to grow in water baptism?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Water Baptism?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "foundations-6",
+        "lessonNumber": 6,
+        "title": "Holy Spirit",
+        "scripture": "Acts 1:8",
+        "teaching": "Holy Spirit is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about holy spirit?",
+          "Where do I need to grow in holy spirit?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Holy Spirit?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "foundations-7",
+        "lessonNumber": 7,
+        "title": "Prayer",
+        "scripture": "Matthew 6:9-13",
+        "teaching": "Prayer is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about prayer?",
+          "Where do I need to grow in prayer?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Prayer?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "foundations-8",
+        "lessonNumber": 8,
+        "title": "Bible Study",
+        "scripture": "2 Timothy 3:16",
+        "teaching": "Bible Study is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about bible study?",
+          "Where do I need to grow in bible study?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Bible Study?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "foundations-9",
+        "lessonNumber": 9,
+        "title": "Church Life",
+        "scripture": "Hebrews 10:25",
+        "teaching": "Church Life is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about church life?",
+          "Where do I need to grow in church life?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Church Life?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "foundations-10",
+        "lessonNumber": 10,
+        "title": "Stewardship",
+        "scripture": "Luke 16:10",
+        "teaching": "Stewardship is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about stewardship?",
+          "Where do I need to grow in stewardship?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Stewardship?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "foundations-11",
+        "lessonNumber": 11,
+        "title": "Evangelism",
+        "scripture": "Matthew 28:18-20",
+        "teaching": "Evangelism is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about evangelism?",
+          "Where do I need to grow in evangelism?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Evangelism?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "foundations-12",
+        "lessonNumber": 12,
+        "title": "Spiritual Growth",
+        "scripture": "2 Peter 3:18",
+        "teaching": "Spiritual Growth is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about spiritual growth?",
+          "Where do I need to grow in spiritual growth?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Spiritual Growth?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      }
+    ]
+  },
+  {
+    "id": "prayer",
+    "title": "Prayer School",
+    "description": "A structured Christian training path focused on prayer school with lessons, Scripture, reflection, quiz, XP, and completion tracking.",
+    "certificate": "Prayer School Graduate",
+    "lessons": [
+      {
+        "id": "prayer-1",
+        "lessonNumber": 1,
+        "title": "How to Pray",
+        "scripture": "John 3:16",
+        "teaching": "How to Pray is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about how to pray?",
+          "Where do I need to grow in how to pray?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on How to Pray?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "prayer-2",
+        "lessonNumber": 2,
+        "title": "The Lord's Prayer",
+        "scripture": "Acts 2:38",
+        "teaching": "The Lord's Prayer is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about the lord's prayer?",
+          "Where do I need to grow in the lord's prayer?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on The Lord's Prayer?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "prayer-3",
+        "lessonNumber": 3,
+        "title": "Faith Prayers",
+        "scripture": "Hebrews 11:1",
+        "teaching": "Faith Prayers is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about faith prayers?",
+          "Where do I need to grow in faith prayers?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Faith Prayers?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "prayer-4",
+        "lessonNumber": 4,
+        "title": "Intercession",
+        "scripture": "Ephesians 2:8-9",
+        "teaching": "Intercession is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about intercession?",
+          "Where do I need to grow in intercession?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Intercession?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "prayer-5",
+        "lessonNumber": 5,
+        "title": "Spiritual Warfare Prayer",
+        "scripture": "Matthew 28:19",
+        "teaching": "Spiritual Warfare Prayer is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about spiritual warfare prayer?",
+          "Where do I need to grow in spiritual warfare prayer?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Spiritual Warfare Prayer?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "prayer-6",
+        "lessonNumber": 6,
+        "title": "Fasting",
+        "scripture": "Acts 1:8",
+        "teaching": "Fasting is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about fasting?",
+          "Where do I need to grow in fasting?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Fasting?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "prayer-7",
+        "lessonNumber": 7,
+        "title": "Praying Scripture",
+        "scripture": "Matthew 6:9-13",
+        "teaching": "Praying Scripture is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about praying scripture?",
+          "Where do I need to grow in praying scripture?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Praying Scripture?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "prayer-8",
+        "lessonNumber": 8,
+        "title": "Hearing God",
+        "scripture": "2 Timothy 3:16",
+        "teaching": "Hearing God is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about hearing god?",
+          "Where do I need to grow in hearing god?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Hearing God?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "prayer-9",
+        "lessonNumber": 9,
+        "title": "Corporate Prayer",
+        "scripture": "Hebrews 10:25",
+        "teaching": "Corporate Prayer is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about corporate prayer?",
+          "Where do I need to grow in corporate prayer?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Corporate Prayer?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "prayer-10",
+        "lessonNumber": 10,
+        "title": "Prayer Journaling",
+        "scripture": "Luke 16:10",
+        "teaching": "Prayer Journaling is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about prayer journaling?",
+          "Where do I need to grow in prayer journaling?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Prayer Journaling?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      }
+    ]
+  },
+  {
+    "id": "evangelism",
+    "title": "Evangelism School",
+    "description": "A structured Christian training path focused on evangelism school with lessons, Scripture, reflection, quiz, XP, and completion tracking.",
+    "certificate": "Evangelism School Graduate",
+    "lessons": [
+      {
+        "id": "evangelism-1",
+        "lessonNumber": 1,
+        "title": "Sharing Your Faith",
+        "scripture": "Matthew 28:18-20",
+        "teaching": "Sharing Your Faith is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about sharing your faith?",
+          "Where do I need to grow in sharing your faith?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Sharing Your Faith?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "evangelism-2",
+        "lessonNumber": 2,
+        "title": "Personal Testimony",
+        "scripture": "2 Peter 3:18",
+        "teaching": "Personal Testimony is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about personal testimony?",
+          "Where do I need to grow in personal testimony?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Personal Testimony?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "evangelism-3",
+        "lessonNumber": 3,
+        "title": "Leading Someone to Christ",
+        "scripture": "John 3:16",
+        "teaching": "Leading Someone to Christ is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about leading someone to christ?",
+          "Where do I need to grow in leading someone to christ?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Leading Someone to Christ?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "evangelism-4",
+        "lessonNumber": 4,
+        "title": "Street Evangelism",
+        "scripture": "Acts 2:38",
+        "teaching": "Street Evangelism is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about street evangelism?",
+          "Where do I need to grow in street evangelism?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Street Evangelism?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "evangelism-5",
+        "lessonNumber": 5,
+        "title": "Campus Evangelism",
+        "scripture": "Hebrews 11:1",
+        "teaching": "Campus Evangelism is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about campus evangelism?",
+          "Where do I need to grow in campus evangelism?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Campus Evangelism?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "evangelism-6",
+        "lessonNumber": 6,
+        "title": "Digital Evangelism",
+        "scripture": "Ephesians 2:8-9",
+        "teaching": "Digital Evangelism is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about digital evangelism?",
+          "Where do I need to grow in digital evangelism?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Digital Evangelism?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "evangelism-7",
+        "lessonNumber": 7,
+        "title": "Follow-Up",
+        "scripture": "Matthew 28:19",
+        "teaching": "Follow-Up is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about follow-up?",
+          "Where do I need to grow in follow-up?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Follow-Up?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "evangelism-8",
+        "lessonNumber": 8,
+        "title": "Discipleship",
+        "scripture": "Acts 1:8",
+        "teaching": "Discipleship is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about discipleship?",
+          "Where do I need to grow in discipleship?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Discipleship?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      }
+    ]
+  },
+  {
+    "id": "discipleship",
+    "title": "Discipleship School",
+    "description": "A structured Christian training path focused on discipleship school with lessons, Scripture, reflection, quiz, XP, and completion tracking.",
+    "certificate": "Discipleship School Graduate",
+    "lessons": [
+      {
+        "id": "discipleship-1",
+        "lessonNumber": 1,
+        "title": "Identity in Christ",
+        "scripture": "Matthew 6:9-13",
+        "teaching": "Identity in Christ is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about identity in christ?",
+          "Where do I need to grow in identity in christ?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Identity in Christ?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "discipleship-2",
+        "lessonNumber": 2,
+        "title": "Obedience",
+        "scripture": "2 Timothy 3:16",
+        "teaching": "Obedience is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about obedience?",
+          "Where do I need to grow in obedience?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Obedience?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "discipleship-3",
+        "lessonNumber": 3,
+        "title": "Holiness",
+        "scripture": "Hebrews 10:25",
+        "teaching": "Holiness is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about holiness?",
+          "Where do I need to grow in holiness?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Holiness?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "discipleship-4",
+        "lessonNumber": 4,
+        "title": "Forgiveness",
+        "scripture": "Luke 16:10",
+        "teaching": "Forgiveness is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about forgiveness?",
+          "Where do I need to grow in forgiveness?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Forgiveness?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "discipleship-5",
+        "lessonNumber": 5,
+        "title": "Humility",
+        "scripture": "Matthew 28:18-20",
+        "teaching": "Humility is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about humility?",
+          "Where do I need to grow in humility?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Humility?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "discipleship-6",
+        "lessonNumber": 6,
+        "title": "Spiritual Disciplines",
+        "scripture": "2 Peter 3:18",
+        "teaching": "Spiritual Disciplines is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about spiritual disciplines?",
+          "Where do I need to grow in spiritual disciplines?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Spiritual Disciplines?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "discipleship-7",
+        "lessonNumber": 7,
+        "title": "Serving Others",
+        "scripture": "John 3:16",
+        "teaching": "Serving Others is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about serving others?",
+          "Where do I need to grow in serving others?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Serving Others?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "discipleship-8",
+        "lessonNumber": 8,
+        "title": "Christian Character",
+        "scripture": "Acts 2:38",
+        "teaching": "Christian Character is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about christian character?",
+          "Where do I need to grow in christian character?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Christian Character?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "discipleship-9",
+        "lessonNumber": 9,
+        "title": "Accountability",
+        "scripture": "Hebrews 11:1",
+        "teaching": "Accountability is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about accountability?",
+          "Where do I need to grow in accountability?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Accountability?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "discipleship-10",
+        "lessonNumber": 10,
+        "title": "Perseverance",
+        "scripture": "Ephesians 2:8-9",
+        "teaching": "Perseverance is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about perseverance?",
+          "Where do I need to grow in perseverance?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Perseverance?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "discipleship-11",
+        "lessonNumber": 11,
+        "title": "Fruit of the Spirit",
+        "scripture": "Matthew 28:19",
+        "teaching": "Fruit of the Spirit is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about fruit of the spirit?",
+          "Where do I need to grow in fruit of the spirit?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Fruit of the Spirit?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "discipleship-12",
+        "lessonNumber": 12,
+        "title": "Growing in Love",
+        "scripture": "Acts 1:8",
+        "teaching": "Growing in Love is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about growing in love?",
+          "Where do I need to grow in growing in love?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Growing in Love?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      }
+    ]
+  },
+  {
+    "id": "leadership",
+    "title": "Leadership School",
+    "description": "A structured Christian training path focused on leadership school with lessons, Scripture, reflection, quiz, XP, and completion tracking.",
+    "certificate": "Leadership School Graduate",
+    "lessons": [
+      {
+        "id": "leadership-1",
+        "lessonNumber": 1,
+        "title": "Servant Leadership",
+        "scripture": "Matthew 6:9-13",
+        "teaching": "Servant Leadership is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about servant leadership?",
+          "Where do I need to grow in servant leadership?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Servant Leadership?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "leadership-2",
+        "lessonNumber": 2,
+        "title": "Vision",
+        "scripture": "2 Timothy 3:16",
+        "teaching": "Vision is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about vision?",
+          "Where do I need to grow in vision?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Vision?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "leadership-3",
+        "lessonNumber": 3,
+        "title": "Integrity",
+        "scripture": "Hebrews 10:25",
+        "teaching": "Integrity is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about integrity?",
+          "Where do I need to grow in integrity?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Integrity?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "leadership-4",
+        "lessonNumber": 4,
+        "title": "Conflict Resolution",
+        "scripture": "Luke 16:10",
+        "teaching": "Conflict Resolution is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about conflict resolution?",
+          "Where do I need to grow in conflict resolution?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Conflict Resolution?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "leadership-5",
+        "lessonNumber": 5,
+        "title": "Team Building",
+        "scripture": "Matthew 28:18-20",
+        "teaching": "Team Building is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about team building?",
+          "Where do I need to grow in team building?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Team Building?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "leadership-6",
+        "lessonNumber": 6,
+        "title": "Mentoring",
+        "scripture": "2 Peter 3:18",
+        "teaching": "Mentoring is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about mentoring?",
+          "Where do I need to grow in mentoring?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Mentoring?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "leadership-7",
+        "lessonNumber": 7,
+        "title": "Teaching",
+        "scripture": "John 3:16",
+        "teaching": "Teaching is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about teaching?",
+          "Where do I need to grow in teaching?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Teaching?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "leadership-8",
+        "lessonNumber": 8,
+        "title": "Church Leadership",
+        "scripture": "Acts 2:38",
+        "teaching": "Church Leadership is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about church leadership?",
+          "Where do I need to grow in church leadership?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Church Leadership?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "leadership-9",
+        "lessonNumber": 9,
+        "title": "Decision Making",
+        "scripture": "Hebrews 11:1",
+        "teaching": "Decision Making is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about decision making?",
+          "Where do I need to grow in decision making?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Decision Making?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      },
+      {
+        "id": "leadership-10",
+        "lessonNumber": 10,
+        "title": "Leading Prayer",
+        "scripture": "Ephesians 2:8-9",
+        "teaching": "Leading Prayer is a core part of Christian growth. This lesson helps the learner understand the biblical foundation, apply the truth personally, and practice it in daily life.",
+        "reflectionQuestions": [
+          "What does Scripture teach me about leading prayer?",
+          "Where do I need to grow in leading prayer?",
+          "What practical step of obedience will I take today?"
+        ],
+        "quiz": {
+          "question": "What is the main goal of this lesson on Leading Prayer?",
+          "options": [
+            "Information only",
+            "Biblical understanding and obedient practice",
+            "Winning arguments",
+            "Avoiding church life"
+          ],
+          "answer": "Biblical understanding and obedient practice"
+        },
+        "xp": 10
+      }
+    ]
+  }
+]

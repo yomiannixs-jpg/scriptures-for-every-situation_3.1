@@ -1,0 +1,38 @@
+[
+  {
+    "id": "community-prayer",
+    "title": "Community Prayer Requests",
+    "description": "Collect prayer needs locally before connecting moderated cloud sharing.",
+    "examples": [
+      "Healing",
+      "Family",
+      "Career",
+      "Provision",
+      "Peace",
+      "Salvation"
+    ]
+  },
+  {
+    "id": "testimonies",
+    "title": "Testimony Wall",
+    "description": "Record answered prayers and testimonies with Scripture references and thanksgiving.",
+    "examples": [
+      "God provided",
+      "Healing testimony",
+      "Open doors",
+      "Restored peace",
+      "Family breakthrough"
+    ]
+  },
+  {
+    "id": "moderation",
+    "title": "Safe Sharing Guidelines",
+    "description": "Keep public posts respectful, non-sensitive, Scripture-centered, and encouraging.",
+    "examples": [
+      "No private addresses",
+      "No medical claims",
+      "No abusive content",
+      "Encourage prayer and counsel"
+    ]
+  }
+]

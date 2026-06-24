@@ -1,0 +1,334 @@
+{
+  "maps": [
+    {
+      "id": "abraham",
+      "title": "Abraham's Journey",
+      "section": "Old Testament",
+      "route": [
+        "Ur",
+        "Haran",
+        "Canaan",
+        "Egypt",
+        "Canaan"
+      ],
+      "summary": "God calls Abraham from Ur and forms a covenant family through faith and obedience.",
+      "references": [
+        "Genesis 12:1-9",
+        "Genesis 15:1-6"
+      ]
+    },
+    {
+      "id": "exodus",
+      "title": "The Exodus Route",
+      "section": "Old Testament",
+      "route": [
+        "Egypt",
+        "Red Sea",
+        "Sinai",
+        "Wilderness",
+        "Canaan"
+      ],
+      "summary": "God delivers Israel from Egypt and leads them toward the promised land.",
+      "references": [
+        "Exodus 12-14",
+        "Exodus 19"
+      ]
+    },
+    {
+      "id": "jesus",
+      "title": "Jesus' Ministry",
+      "section": "New Testament",
+      "route": [
+        "Bethlehem",
+        "Nazareth",
+        "Capernaum",
+        "Galilee",
+        "Jerusalem"
+      ],
+      "summary": "Jesus' ministry moves through Galilee and Judea toward the cross and resurrection.",
+      "references": [
+        "Luke 2",
+        "Matthew 4",
+        "John 19-20"
+      ]
+    },
+    {
+      "id": "paul",
+      "title": "Paul's Missionary Journeys",
+      "section": "New Testament",
+      "route": [
+        "Antioch",
+        "Cyprus",
+        "Asia Minor",
+        "Macedonia",
+        "Greece",
+        "Jerusalem",
+        "Rome"
+      ],
+      "summary": "Paul carries the gospel across the Mediterranean world.",
+      "references": [
+        "Acts 13-28"
+      ]
+    },
+    {
+      "id": "seven-churches",
+      "title": "Seven Churches of Revelation",
+      "section": "New Testament",
+      "route": [
+        "Ephesus",
+        "Smyrna",
+        "Pergamum",
+        "Thyatira",
+        "Sardis",
+        "Philadelphia",
+        "Laodicea"
+      ],
+      "summary": "The risen Christ addresses seven churches in Asia Minor.",
+      "references": [
+        "Revelation 1-3"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "era": "Creation and Fall",
+      "period": "Beginnings",
+      "summary": "God creates the world, humanity falls, and redemption is promised.",
+      "references": [
+        "Genesis 1-3"
+      ]
+    },
+    {
+      "era": "Patriarchs",
+      "period": "Abraham to Joseph",
+      "summary": "God forms covenant promises through Abraham, Isaac, Jacob, and Joseph.",
+      "references": [
+        "Genesis 12-50"
+      ]
+    },
+    {
+      "era": "Exodus and Law",
+      "period": "Moses",
+      "summary": "Israel is delivered from Egypt and receives the covenant at Sinai.",
+      "references": [
+        "Exodus-Deuteronomy"
+      ]
+    },
+    {
+      "era": "Kingdom and Exile",
+      "period": "Kings and Prophets",
+      "summary": "Israel rises, divides, declines, and experiences exile.",
+      "references": [
+        "Samuel",
+        "Kings",
+        "Prophets"
+      ]
+    },
+    {
+      "era": "Life of Christ",
+      "period": "Gospels",
+      "summary": "Jesus is born, ministers, dies, rises, and commissions His followers.",
+      "references": [
+        "Matthew-John"
+      ]
+    },
+    {
+      "era": "Early Church",
+      "period": "Acts and Epistles",
+      "summary": "The Spirit empowers the church and the gospel spreads to the nations.",
+      "references": [
+        "Acts",
+        "Epistles"
+      ]
+    },
+    {
+      "era": "New Creation Hope",
+      "period": "Revelation",
+      "summary": "Christ reigns and makes all things new.",
+      "references": [
+        "Revelation"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "name": "Abraham",
+      "role": "Father of faith",
+      "strengths": "Faith and covenant trust",
+      "weaknesses": "Fear and impatience",
+      "lessons": "Walk by faith when the destination is unclear.",
+      "references": [
+        "Genesis 12",
+        "Romans 4"
+      ]
+    },
+    {
+      "name": "Moses",
+      "role": "Deliverer and lawgiver",
+      "strengths": "Humility and intercession",
+      "weaknesses": "Anger and reluctance",
+      "lessons": "God uses reluctant servants for deliverance.",
+      "references": [
+        "Exodus 3",
+        "Deuteronomy 34"
+      ]
+    },
+    {
+      "name": "David",
+      "role": "King of Israel",
+      "strengths": "Worship and courage",
+      "weaknesses": "Moral failure",
+      "lessons": "A heart after God returns quickly in repentance.",
+      "references": [
+        "1 Samuel 16",
+        "Psalm 51"
+      ]
+    },
+    {
+      "name": "Esther",
+      "role": "Queen and deliverer",
+      "strengths": "Courage and wisdom",
+      "weaknesses": "Initial hesitation",
+      "lessons": "God positions His people for courageous moments.",
+      "references": [
+        "Esther 4"
+      ]
+    },
+    {
+      "name": "Daniel",
+      "role": "Faithful exile",
+      "strengths": "Prayer and integrity",
+      "weaknesses": "No major failure highlighted",
+      "lessons": "Faithfulness is possible in hostile cultures.",
+      "references": [
+        "Daniel 1",
+        "Daniel 6"
+      ]
+    },
+    {
+      "name": "Peter",
+      "role": "Apostle",
+      "strengths": "Boldness and leadership",
+      "weaknesses": "Impulsiveness and denial",
+      "lessons": "Failure is not final when Christ restores.",
+      "references": [
+        "Luke 22",
+        "John 21"
+      ]
+    },
+    {
+      "name": "Paul",
+      "role": "Missionary apostle",
+      "strengths": "Zeal and endurance",
+      "weaknesses": "Former persecution",
+      "lessons": "Grace transforms enemies into servants.",
+      "references": [
+        "Acts 9",
+        "2 Corinthians 11"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "importance": "Temple city, Davidic capital, crucifixion and resurrection events.",
+      "references": [
+        "2 Samuel 5",
+        "Luke 24"
+      ]
+    },
+    {
+      "name": "Bethlehem",
+      "importance": "City of David and birthplace of Jesus.",
+      "references": [
+        "Micah 5:2",
+        "Luke 2"
+      ]
+    },
+    {
+      "name": "Nazareth",
+      "importance": "Jesus' hometown in Galilee.",
+      "references": [
+        "Matthew 2:23",
+        "Luke 4"
+      ]
+    },
+    {
+      "name": "Capernaum",
+      "importance": "Major center of Jesus' Galilean ministry.",
+      "references": [
+        "Mark 2",
+        "Matthew 4"
+      ]
+    },
+    {
+      "name": "Nineveh",
+      "importance": "Assyrian city where Jonah preached repentance.",
+      "references": [
+        "Jonah 3"
+      ]
+    },
+    {
+      "name": "Babylon",
+      "importance": "Place of exile and symbol of worldly empire.",
+      "references": [
+        "Daniel 1",
+        "Revelation 18"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Creation",
+      "summary": "God creates the heavens, earth, and humanity.",
+      "references": [
+        "Genesis 1-2"
+      ]
+    },
+    {
+      "title": "The Flood",
+      "summary": "God judges evil and preserves Noah's family.",
+      "references": [
+        "Genesis 6-9"
+      ]
+    },
+    {
+      "title": "Exodus",
+      "summary": "God delivers Israel from slavery in Egypt.",
+      "references": [
+        "Exodus 12-14"
+      ]
+    },
+    {
+      "title": "Birth of Christ",
+      "summary": "Jesus is born in Bethlehem as Savior and King.",
+      "references": [
+        "Luke 2",
+        "Matthew 2"
+      ]
+    },
+    {
+      "title": "Crucifixion",
+      "summary": "Jesus dies for the sins of the world.",
+      "references": [
+        "Matthew 27",
+        "John 19"
+      ]
+    },
+    {
+      "title": "Resurrection",
+      "summary": "Jesus rises from the dead in victory.",
+      "references": [
+        "Matthew 28",
+        "John 20"
+      ]
+    },
+    {
+      "title": "Pentecost",
+      "summary": "The Holy Spirit empowers the church for witness.",
+      "references": [
+        "Acts 2"
+      ]
+    }
+  ]
+}

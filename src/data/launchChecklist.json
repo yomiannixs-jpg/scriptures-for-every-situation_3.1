@@ -1,0 +1,23 @@
+{
+  "checklist": [
+    "Production environment variables configured",
+    "Supabase authentication verified",
+    "Supabase cloud sync verified",
+    "OpenAI API key verified",
+    "PWA install verified",
+    "Logo, favicon, icons, and manifest verified",
+    "Bible, devotions, quiz, academy, maps, AI Pro, and ministry routes tested",
+    "Mobile responsive audit completed",
+    "Vercel production deployment tested",
+    "Android wrapper ready for Capacitor",
+    "iOS wrapper ready for Capacitor",
+    "Privacy policy and terms reviewed",
+    "Store listing title, description, and screenshots prepared",
+    "Final QA completed"
+  ],
+  "storeText": {
+    "title": "Scriptures for Every Situation",
+    "shortDescription": "Bible, devotions, prayer, study, quizzes, ministry tools, and AI Scripture guidance.",
+    "fullDescription": "Scriptures for Every Situation is a Christian growth platform with Bible reading, 360-day devotions, memory verses, Bible quizzes, AI study tools, sermon builder, family devotions, church and ministry tools, Bible maps, timelines, and prayer journaling."
+  }
+}

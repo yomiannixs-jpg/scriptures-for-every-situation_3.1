@@ -1,0 +1,5105 @@
+[
+  {
+    "id": "mcq-1",
+    "difficulty": "Easy",
+    "question": "Where was Jesus born?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nazareth"
+      },
+      {
+        "label": "B",
+        "text": "Jerusalem"
+      },
+      {
+        "label": "C",
+        "text": "Bethlehem"
+      },
+      {
+        "label": "D",
+        "text": "Capernaum"
+      }
+    ],
+    "answer": "Bethlehem",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Bethlehem."
+  },
+  {
+    "id": "mcq-2",
+    "difficulty": "Easy",
+    "question": "How many books are in the New Testament?",
+    "options": [
+      {
+        "label": "A",
+        "text": "39"
+      },
+      {
+        "label": "B",
+        "text": "27"
+      },
+      {
+        "label": "C",
+        "text": "66"
+      },
+      {
+        "label": "D",
+        "text": "24"
+      }
+    ],
+    "answer": "27",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: 27."
+  },
+  {
+    "id": "mcq-3",
+    "difficulty": "Easy",
+    "question": "After Jesus fed the 5,000, how many baskets were left over?",
+    "options": [
+      {
+        "label": "A",
+        "text": "7"
+      },
+      {
+        "label": "B",
+        "text": "12"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "answer": "12",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: 12."
+  },
+  {
+    "id": "mcq-4",
+    "difficulty": "Easy",
+    "question": "Which insect did John the Baptist eat in the desert?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bees"
+      },
+      {
+        "label": "B",
+        "text": "Ants"
+      },
+      {
+        "label": "C",
+        "text": "Locusts"
+      },
+      {
+        "label": "D",
+        "text": "Grasshoppers"
+      }
+    ],
+    "answer": "Locusts",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Locusts."
+  },
+  {
+    "id": "mcq-5",
+    "difficulty": "Easy",
+    "question": "Who were the first apostles called to follow Jesus?",
+    "options": [
+      {
+        "label": "A",
+        "text": "James & John"
+      },
+      {
+        "label": "B",
+        "text": "Peter & Andrew"
+      },
+      {
+        "label": "C",
+        "text": "Matthew & Thomas"
+      },
+      {
+        "label": "D",
+        "text": "Philip & Bartholomew"
+      }
+    ],
+    "answer": "Peter & Andrew",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Peter & Andrew."
+  },
+  {
+    "id": "mcq-6",
+    "difficulty": "Easy",
+    "question": "After Jesus was arrested, which apostle disowned him three times?",
+    "options": [
+      {
+        "label": "A",
+        "text": "John"
+      },
+      {
+        "label": "B",
+        "text": "James"
+      },
+      {
+        "label": "C",
+        "text": "Peter"
+      },
+      {
+        "label": "D",
+        "text": "Thomas"
+      }
+    ],
+    "answer": "Peter",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Peter."
+  },
+  {
+    "id": "mcq-7",
+    "difficulty": "Easy",
+    "question": "Who wrote the book of Revelation?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Peter"
+      },
+      {
+        "label": "B",
+        "text": "Paul"
+      },
+      {
+        "label": "C",
+        "text": "John"
+      },
+      {
+        "label": "D",
+        "text": "James"
+      }
+    ],
+    "answer": "John",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: John."
+  },
+  {
+    "id": "mcq-8",
+    "difficulty": "Easy",
+    "question": "Who worked as a tax collector prior to preaching the word of God?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Luke"
+      },
+      {
+        "label": "B",
+        "text": "Mark"
+      },
+      {
+        "label": "C",
+        "text": "Matthew"
+      },
+      {
+        "label": "D",
+        "text": "Thomas"
+      }
+    ],
+    "answer": "Matthew",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Matthew."
+  },
+  {
+    "id": "mcq-9",
+    "difficulty": "Easy",
+    "question": "What was Simon Peter's profession prior to becoming an apostle?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Carpenter"
+      },
+      {
+        "label": "B",
+        "text": "Tax collector"
+      },
+      {
+        "label": "C",
+        "text": "Fisherman"
+      },
+      {
+        "label": "D",
+        "text": "Tentmaker"
+      }
+    ],
+    "answer": "Fisherman",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Fisherman."
+  },
+  {
+    "id": "mcq-10",
+    "difficulty": "Easy",
+    "question": "Who baptizes Jesus?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Peter"
+      },
+      {
+        "label": "B",
+        "text": "Andrew"
+      },
+      {
+        "label": "C",
+        "text": "John the Baptizer"
+      },
+      {
+        "label": "D",
+        "text": "Elijah"
+      }
+    ],
+    "answer": "John the Baptizer",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: John the Baptizer."
+  },
+  {
+    "id": "mcq-11",
+    "difficulty": "Easy",
+    "question": "How many people boarded Noah's Ark?",
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "6"
+      },
+      {
+        "label": "C",
+        "text": "8"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "answer": "8",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: 8."
+  },
+  {
+    "id": "mcq-12",
+    "difficulty": "Easy",
+    "question": "How many days and nights did Jesus fast for?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20 days & 20 nights"
+      },
+      {
+        "label": "B",
+        "text": "30 days & 30 nights"
+      },
+      {
+        "label": "C",
+        "text": "40 days & 40 nights"
+      },
+      {
+        "label": "D",
+        "text": "50 days & 50 nights"
+      }
+    ],
+    "answer": "40 days & 40 nights",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: 40 days & 40 nights."
+  },
+  {
+    "id": "mcq-13",
+    "difficulty": "Easy",
+    "question": "What is the Holy Trinity?",
+    "options": [
+      {
+        "label": "A",
+        "text": "God, Angels, & Saints"
+      },
+      {
+        "label": "B",
+        "text": "Father, Son, & the Holy Spirit"
+      },
+      {
+        "label": "C",
+        "text": "Father, Mary, & Jesus"
+      },
+      {
+        "label": "D",
+        "text": "Creator, Redeemer, & Comforter"
+      }
+    ],
+    "answer": "Father, Son, & the Holy Spirit",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Father, Son, & the Holy Spirit."
+  },
+  {
+    "id": "mcq-14",
+    "difficulty": "Easy",
+    "question": "How many days did it take God to create the heavens and the earth/world?",
+    "options": [
+      {
+        "label": "A",
+        "text": "5"
+      },
+      {
+        "label": "B",
+        "text": "6"
+      },
+      {
+        "label": "C",
+        "text": "7 (6 days of creation, 1 day of rest)"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "answer": "7 (6 days of creation, 1 day of rest)",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: 7 (6 days of creation, 1 day of rest)."
+  },
+  {
+    "id": "mcq-15",
+    "difficulty": "Easy",
+    "question": "What did God use the rib of Adam to do?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Create animals"
+      },
+      {
+        "label": "B",
+        "text": "Create Eve"
+      },
+      {
+        "label": "C",
+        "text": "Create the garden"
+      },
+      {
+        "label": "D",
+        "text": "Create angels"
+      }
+    ],
+    "answer": "Create Eve",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Create Eve."
+  },
+  {
+    "id": "mcq-16",
+    "difficulty": "Easy",
+    "question": "Who were Adam & Eve's first children?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Seth & Enoch"
+      },
+      {
+        "label": "B",
+        "text": "Cain & Abel"
+      },
+      {
+        "label": "C",
+        "text": "Noah & Shem"
+      },
+      {
+        "label": "D",
+        "text": "Isaac & Ishmael"
+      }
+    ],
+    "answer": "Cain & Abel",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Cain & Abel."
+  },
+  {
+    "id": "mcq-17",
+    "difficulty": "Easy",
+    "question": "Who is Abraham's wife?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hagar"
+      },
+      {
+        "label": "B",
+        "text": "Rebekah"
+      },
+      {
+        "label": "C",
+        "text": "Sarah (Sarai)"
+      },
+      {
+        "label": "D",
+        "text": "Leah"
+      }
+    ],
+    "answer": "Sarah (Sarai)",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Sarah (Sarai)."
+  },
+  {
+    "id": "mcq-18",
+    "difficulty": "Easy",
+    "question": "How many books are in the Bible?",
+    "options": [
+      {
+        "label": "A",
+        "text": "39"
+      },
+      {
+        "label": "B",
+        "text": "27"
+      },
+      {
+        "label": "C",
+        "text": "66"
+      },
+      {
+        "label": "D",
+        "text": "73"
+      }
+    ],
+    "answer": "66",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: 66."
+  },
+  {
+    "id": "mcq-19",
+    "difficulty": "Easy",
+    "question": "How many books are in the Old Testament?",
+    "options": [
+      {
+        "label": "A",
+        "text": "27"
+      },
+      {
+        "label": "B",
+        "text": "39"
+      },
+      {
+        "label": "C",
+        "text": "66"
+      },
+      {
+        "label": "D",
+        "text": "50"
+      }
+    ],
+    "answer": "39",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: 39."
+  },
+  {
+    "id": "mcq-20",
+    "difficulty": "Easy",
+    "question": "How many plagues are in Exodus?",
+    "options": [
+      {
+        "label": "A",
+        "text": "7"
+      },
+      {
+        "label": "B",
+        "text": "8"
+      },
+      {
+        "label": "C",
+        "text": "10"
+      },
+      {
+        "label": "D",
+        "text": "12"
+      }
+    ],
+    "answer": "10",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: 10."
+  },
+  {
+    "id": "mcq-21",
+    "difficulty": "Easy",
+    "question": "What is the first commandment out of the Ten Commandments?",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"You shall not kill\""
+      },
+      {
+        "label": "B",
+        "text": "\"You shall not steal\""
+      },
+      {
+        "label": "C",
+        "text": "\"You shall have no other gods before me\""
+      },
+      {
+        "label": "D",
+        "text": "\"Honor your father and mother\""
+      }
+    ],
+    "answer": "\"You shall have no other gods before me\"",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: \"You shall have no other gods before me\"."
+  },
+  {
+    "id": "mcq-22",
+    "difficulty": "Easy",
+    "question": "What is the last book of the Old Testament?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Zechariah"
+      },
+      {
+        "label": "B",
+        "text": "Haggai"
+      },
+      {
+        "label": "C",
+        "text": "Malachi"
+      },
+      {
+        "label": "D",
+        "text": "Nehemiah"
+      }
+    ],
+    "answer": "Malachi",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Malachi."
+  },
+  {
+    "id": "mcq-23",
+    "difficulty": "Easy",
+    "question": "Who is the first murderer in the Bible?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Abel"
+      },
+      {
+        "label": "B",
+        "text": "Cain"
+      },
+      {
+        "label": "C",
+        "text": "Adam"
+      },
+      {
+        "label": "D",
+        "text": "Lamech"
+      }
+    ],
+    "answer": "Cain",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Cain."
+  },
+  {
+    "id": "mcq-24",
+    "difficulty": "Easy",
+    "question": "What was Jesus' crown made of?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gold"
+      },
+      {
+        "label": "B",
+        "text": "Silver"
+      },
+      {
+        "label": "C",
+        "text": "Thorns"
+      },
+      {
+        "label": "D",
+        "text": "Olive branches"
+      }
+    ],
+    "answer": "Thorns",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Thorns."
+  },
+  {
+    "id": "mcq-25",
+    "difficulty": "Easy",
+    "question": "Who is the Savior?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Moses"
+      },
+      {
+        "label": "B",
+        "text": "Elijah"
+      },
+      {
+        "label": "C",
+        "text": "Jesus Christ"
+      },
+      {
+        "label": "D",
+        "text": "John the Baptist"
+      }
+    ],
+    "answer": "Jesus Christ",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Jesus Christ."
+  },
+  {
+    "id": "mcq-26",
+    "difficulty": "Easy",
+    "question": "What is the last book in the New Testament?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jude"
+      },
+      {
+        "label": "B",
+        "text": "3 John"
+      },
+      {
+        "label": "C",
+        "text": "Revelation"
+      },
+      {
+        "label": "D",
+        "text": "Hebrews"
+      }
+    ],
+    "answer": "Revelation",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Revelation."
+  },
+  {
+    "id": "mcq-27",
+    "difficulty": "Easy",
+    "question": "On which day did Jesus rise from the dead?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Friday"
+      },
+      {
+        "label": "B",
+        "text": "Saturday"
+      },
+      {
+        "label": "C",
+        "text": "The third day / Sunday"
+      },
+      {
+        "label": "D",
+        "text": "Monday"
+      }
+    ],
+    "answer": "The third day / Sunday",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: The third day / Sunday."
+  },
+  {
+    "id": "mcq-28",
+    "difficulty": "Easy",
+    "question": "Which apostle walked on water?",
+    "options": [
+      {
+        "label": "A",
+        "text": "John"
+      },
+      {
+        "label": "B",
+        "text": "James"
+      },
+      {
+        "label": "C",
+        "text": "Peter"
+      },
+      {
+        "label": "D",
+        "text": "Andrew"
+      }
+    ],
+    "answer": "Peter",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Peter."
+  },
+  {
+    "id": "mcq-29",
+    "difficulty": "Easy",
+    "question": "Who is the mother of all living?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mary"
+      },
+      {
+        "label": "B",
+        "text": "Sarah"
+      },
+      {
+        "label": "C",
+        "text": "Eve"
+      },
+      {
+        "label": "D",
+        "text": "Rebekah"
+      }
+    ],
+    "answer": "Eve",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Eve."
+  },
+  {
+    "id": "mcq-30",
+    "difficulty": "Easy",
+    "question": "What is the shortest verse in the Bible?",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"Pray without ceasing\""
+      },
+      {
+        "label": "B",
+        "text": "\"Love one another\""
+      },
+      {
+        "label": "C",
+        "text": "\"Jesus wept.\""
+      },
+      {
+        "label": "D",
+        "text": "\"God is love\""
+      }
+    ],
+    "answer": "\"Jesus wept.\"",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: \"Jesus wept.\"."
+  },
+  {
+    "id": "mcq-31",
+    "difficulty": "Easy",
+    "question": "At what age did Jesus start his ministry?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20"
+      },
+      {
+        "label": "B",
+        "text": "25"
+      },
+      {
+        "label": "C",
+        "text": "30"
+      },
+      {
+        "label": "D",
+        "text": "33"
+      }
+    ],
+    "answer": "30",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: 30."
+  },
+  {
+    "id": "mcq-32",
+    "difficulty": "Easy",
+    "question": "Who does God tell Abraham to sacrifice to prove his loyalty to Him?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ishmael"
+      },
+      {
+        "label": "B",
+        "text": "Isaac"
+      },
+      {
+        "label": "C",
+        "text": "Jacob"
+      },
+      {
+        "label": "D",
+        "text": "Lot"
+      }
+    ],
+    "answer": "Isaac",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Isaac."
+  },
+  {
+    "id": "mcq-33",
+    "difficulty": "Easy",
+    "question": "What animal is slain for the feast of Passover?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Goat"
+      },
+      {
+        "label": "B",
+        "text": "The lamb"
+      },
+      {
+        "label": "C",
+        "text": "Bull"
+      },
+      {
+        "label": "D",
+        "text": "Dove"
+      }
+    ],
+    "answer": "The lamb",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: The lamb."
+  },
+  {
+    "id": "mcq-34",
+    "difficulty": "Easy",
+    "question": "Who is the oldest man in the Bible?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Noah"
+      },
+      {
+        "label": "B",
+        "text": "Adam"
+      },
+      {
+        "label": "C",
+        "text": "Methuselah"
+      },
+      {
+        "label": "D",
+        "text": "Enoch"
+      }
+    ],
+    "answer": "Methuselah",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Methuselah."
+  },
+  {
+    "id": "mcq-35",
+    "difficulty": "Easy",
+    "question": "What were the gifts the Wise Men brought when they went to visit Jesus?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Silver, Gold, & Spices"
+      },
+      {
+        "label": "B",
+        "text": "Gold, Frankincense, & Myrrh"
+      },
+      {
+        "label": "C",
+        "text": "Gold, Silver, & Bronze"
+      },
+      {
+        "label": "D",
+        "text": "Myrrh, Oil, & Wine"
+      }
+    ],
+    "answer": "Gold, Frankincense, & Myrrh",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Gold, Frankincense, & Myrrh."
+  },
+  {
+    "id": "mcq-36",
+    "difficulty": "Easy",
+    "question": "What did God use to create Adam in the book of Genesis?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Water"
+      },
+      {
+        "label": "B",
+        "text": "Clay"
+      },
+      {
+        "label": "C",
+        "text": "Dust"
+      },
+      {
+        "label": "D",
+        "text": "Air"
+      }
+    ],
+    "answer": "Dust",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Dust."
+  },
+  {
+    "id": "mcq-37",
+    "difficulty": "Easy",
+    "question": "Who were the three men that were thrown into the fiery furnace?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Daniel, Hananiah, & Mishael"
+      },
+      {
+        "label": "B",
+        "text": "Shadrach, Meshach, & Abednego"
+      },
+      {
+        "label": "C",
+        "text": "Elijah, Elisha, & Isaiah"
+      },
+      {
+        "label": "D",
+        "text": "Peter, James, & John"
+      }
+    ],
+    "answer": "Shadrach, Meshach, & Abednego",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Shadrach, Meshach, & Abednego."
+  },
+  {
+    "id": "mcq-38",
+    "difficulty": "Easy",
+    "question": "What book of the Bible contains the Ten Commandments?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Leviticus"
+      },
+      {
+        "label": "B",
+        "text": "Numbers"
+      },
+      {
+        "label": "C",
+        "text": "Exodus (and Deuteronomy)"
+      },
+      {
+        "label": "D",
+        "text": "Genesis"
+      }
+    ],
+    "answer": "Exodus (and Deuteronomy)",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Exodus (and Deuteronomy)."
+  },
+  {
+    "id": "mcq-39",
+    "difficulty": "Easy",
+    "question": "What was the sign of God's covenant with Noah and his sons?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A dove"
+      },
+      {
+        "label": "B",
+        "text": "An olive branch"
+      },
+      {
+        "label": "C",
+        "text": "A rainbow"
+      },
+      {
+        "label": "D",
+        "text": "A star"
+      }
+    ],
+    "answer": "A rainbow",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: A rainbow."
+  },
+  {
+    "id": "mcq-40",
+    "difficulty": "Easy",
+    "question": "What is the first book in the Bible?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Exodus"
+      },
+      {
+        "label": "B",
+        "text": "Psalms"
+      },
+      {
+        "label": "C",
+        "text": "Genesis"
+      },
+      {
+        "label": "D",
+        "text": "Leviticus"
+      }
+    ],
+    "answer": "Genesis",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Genesis."
+  },
+  {
+    "id": "mcq-41",
+    "difficulty": "Easy",
+    "question": "Who was the first man and woman?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Noah and Naamah"
+      },
+      {
+        "label": "B",
+        "text": "Adam and Eve"
+      },
+      {
+        "label": "C",
+        "text": "Abraham and Sarah"
+      },
+      {
+        "label": "D",
+        "text": "Joseph and Mary"
+      }
+    ],
+    "answer": "Adam and Eve",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Adam and Eve."
+  },
+  {
+    "id": "mcq-42",
+    "difficulty": "Easy",
+    "question": "Where did they live at the beginning of the world?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jerusalem"
+      },
+      {
+        "label": "B",
+        "text": "Garden of Eden"
+      },
+      {
+        "label": "C",
+        "text": "Nazareth"
+      },
+      {
+        "label": "D",
+        "text": "Bethlehem"
+      }
+    ],
+    "answer": "Garden of Eden",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Garden of Eden."
+  },
+  {
+    "id": "mcq-43",
+    "difficulty": "Easy",
+    "question": "Who did God tell to build an ark?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Abraham"
+      },
+      {
+        "label": "B",
+        "text": "Moses"
+      },
+      {
+        "label": "C",
+        "text": "Noah"
+      },
+      {
+        "label": "D",
+        "text": "David"
+      }
+    ],
+    "answer": "Noah",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Noah."
+  },
+  {
+    "id": "mcq-44",
+    "difficulty": "Easy",
+    "question": "Who was the enemy who took the Ark of the Covenant, and championed Goliath?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The Edomites"
+      },
+      {
+        "label": "B",
+        "text": "The Moabites"
+      },
+      {
+        "label": "C",
+        "text": "The Philistines"
+      },
+      {
+        "label": "D",
+        "text": "The Amalekites"
+      }
+    ],
+    "answer": "The Philistines",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: The Philistines."
+  },
+  {
+    "id": "mcq-45",
+    "difficulty": "Medium",
+    "question": "Paul was shipwrecked on what island?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cyprus"
+      },
+      {
+        "label": "B",
+        "text": "Crete"
+      },
+      {
+        "label": "C",
+        "text": "Malta"
+      },
+      {
+        "label": "D",
+        "text": "Rhodes"
+      }
+    ],
+    "answer": "Malta",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Malta."
+  },
+  {
+    "id": "mcq-46",
+    "difficulty": "Medium",
+    "question": "Who recognized Jesus as the Messiah when he was presented to the Temple as a baby?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Anna"
+      },
+      {
+        "label": "B",
+        "text": "Zechariah"
+      },
+      {
+        "label": "C",
+        "text": "Simeon"
+      },
+      {
+        "label": "D",
+        "text": "Joseph"
+      }
+    ],
+    "answer": "Simeon",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Simeon."
+  },
+  {
+    "id": "mcq-47",
+    "difficulty": "Medium",
+    "question": "In the Gospel of Mark, how does the Virgin Mary learn of her pregnancy?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Through a dream"
+      },
+      {
+        "label": "B",
+        "text": "From Elizabeth"
+      },
+      {
+        "label": "C",
+        "text": "From the angel Gabriel"
+      },
+      {
+        "label": "D",
+        "text": "From Joseph"
+      }
+    ],
+    "answer": "From the angel Gabriel",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: From the angel Gabriel."
+  },
+  {
+    "id": "mcq-48",
+    "difficulty": "Medium",
+    "question": "Who is the high priest of Jerusalem that put Jesus on trial?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Annas"
+      },
+      {
+        "label": "B",
+        "text": "Caiaphas"
+      },
+      {
+        "label": "C",
+        "text": "Pilate"
+      },
+      {
+        "label": "D",
+        "text": "Herod"
+      }
+    ],
+    "answer": "Caiaphas",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Caiaphas."
+  },
+  {
+    "id": "mcq-49",
+    "difficulty": "Medium",
+    "question": "According to the Gospel of Matthew, where does Jesus give his first public sermon?",
+    "options": [
+      {
+        "label": "A",
+        "text": "By the sea"
+      },
+      {
+        "label": "B",
+        "text": "In the temple"
+      },
+      {
+        "label": "C",
+        "text": "On the mount"
+      },
+      {
+        "label": "D",
+        "text": "In the synagogue"
+      }
+    ],
+    "answer": "On the mount",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: On the mount."
+  },
+  {
+    "id": "mcq-50",
+    "difficulty": "Medium",
+    "question": "How does Judas notify the Roman Officials of Jesus' identity?",
+    "options": [
+      {
+        "label": "A",
+        "text": "He points to Jesus"
+      },
+      {
+        "label": "B",
+        "text": "He calls out His name"
+      },
+      {
+        "label": "C",
+        "text": "Judas kisses Jesus"
+      },
+      {
+        "label": "D",
+        "text": "He writes a letter"
+      }
+    ],
+    "answer": "Judas kisses Jesus",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Judas kisses Jesus."
+  },
+  {
+    "id": "mcq-51",
+    "difficulty": "Medium",
+    "question": "Who asked Pilate for Jesus' body after he was crucified?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nicodemus"
+      },
+      {
+        "label": "B",
+        "text": "Peter"
+      },
+      {
+        "label": "C",
+        "text": "Joseph of Arimathea"
+      },
+      {
+        "label": "D",
+        "text": "John"
+      }
+    ],
+    "answer": "Joseph of Arimathea",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Joseph of Arimathea."
+  },
+  {
+    "id": "mcq-52",
+    "difficulty": "Medium",
+    "question": "What is the shortest book in the Bible?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jude"
+      },
+      {
+        "label": "B",
+        "text": "Philemon"
+      },
+      {
+        "label": "C",
+        "text": "2 John / 3 John"
+      },
+      {
+        "label": "D",
+        "text": "Obadiah"
+      }
+    ],
+    "answer": "2 John / 3 John",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: 2 John / 3 John."
+  },
+  {
+    "id": "mcq-53",
+    "difficulty": "Medium",
+    "question": "What did Saul encounter when he was traveling to Damascus?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A strong wind"
+      },
+      {
+        "label": "B",
+        "text": "An earthquake"
+      },
+      {
+        "label": "C",
+        "text": "A great and blinding light"
+      },
+      {
+        "label": "D",
+        "text": "A voice from heaven"
+      }
+    ],
+    "answer": "A great and blinding light",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: A great and blinding light."
+  },
+  {
+    "id": "mcq-54",
+    "difficulty": "Medium",
+    "question": "In the Acts of the Apostles, who is Stephen?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The first deacon"
+      },
+      {
+        "label": "B",
+        "text": "The first Christian martyr"
+      },
+      {
+        "label": "C",
+        "text": "The first apostle"
+      },
+      {
+        "label": "D",
+        "text": "The first evangelist"
+      }
+    ],
+    "answer": "The first Christian martyr",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: The first Christian martyr."
+  },
+  {
+    "id": "mcq-55",
+    "difficulty": "Medium",
+    "question": "In 1 Corinthians, which is the greatest of the imperishable qualities?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Faith"
+      },
+      {
+        "label": "B",
+        "text": "Hope"
+      },
+      {
+        "label": "C",
+        "text": "Love"
+      },
+      {
+        "label": "D",
+        "text": "Joy"
+      }
+    ],
+    "answer": "Love",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Love."
+  },
+  {
+    "id": "mcq-56",
+    "difficulty": "Medium",
+    "question": "Which Gospel is written by a doctor?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Matthew"
+      },
+      {
+        "label": "B",
+        "text": "Mark"
+      },
+      {
+        "label": "C",
+        "text": "Luke"
+      },
+      {
+        "label": "D",
+        "text": "John"
+      }
+    ],
+    "answer": "Luke",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Luke."
+  },
+  {
+    "id": "mcq-57",
+    "difficulty": "Medium",
+    "question": "What is the name of the village where Christ turned water into wine?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bethany"
+      },
+      {
+        "label": "B",
+        "text": "Cana of Galilee"
+      },
+      {
+        "label": "C",
+        "text": "Capernaum"
+      },
+      {
+        "label": "D",
+        "text": "Emmaus"
+      }
+    ],
+    "answer": "Cana of Galilee",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Cana of Galilee."
+  },
+  {
+    "id": "mcq-58",
+    "difficulty": "Medium",
+    "question": "Which prophet is known for turning his rod into a bronze snake?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aaron"
+      },
+      {
+        "label": "B",
+        "text": "Joshua"
+      },
+      {
+        "label": "C",
+        "text": "Moses"
+      },
+      {
+        "label": "D",
+        "text": "Elijah"
+      }
+    ],
+    "answer": "Moses",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Moses."
+  },
+  {
+    "id": "mcq-59",
+    "difficulty": "Medium",
+    "question": "What did Joshua command to stay still?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Stars & planets"
+      },
+      {
+        "label": "B",
+        "text": "Moon & Sun"
+      },
+      {
+        "label": "C",
+        "text": "Clouds & rain"
+      },
+      {
+        "label": "D",
+        "text": "Earth & sea"
+      }
+    ],
+    "answer": "Moon & Sun",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Moon & Sun."
+  },
+  {
+    "id": "mcq-60",
+    "difficulty": "Medium",
+    "question": "How did God appear to Moses in the book of Exodus?",
+    "options": [
+      {
+        "label": "A",
+        "text": "In a pillar of fire"
+      },
+      {
+        "label": "B",
+        "text": "In a cloud"
+      },
+      {
+        "label": "C",
+        "text": "Through a burning bush on the mountain of God"
+      },
+      {
+        "label": "D",
+        "text": "In a whirlwind"
+      }
+    ],
+    "answer": "Through a burning bush on the mountain of God",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Through a burning bush on the mountain of God."
+  },
+  {
+    "id": "mcq-61",
+    "difficulty": "Medium",
+    "question": "Who did Moses drown by closing the Red Sea?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The Canaanites"
+      },
+      {
+        "label": "B",
+        "text": "The Egyptians"
+      },
+      {
+        "label": "C",
+        "text": "The Philistines"
+      },
+      {
+        "label": "D",
+        "text": "The Amorites"
+      }
+    ],
+    "answer": "The Egyptians",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: The Egyptians."
+  },
+  {
+    "id": "mcq-62",
+    "difficulty": "Medium",
+    "question": "What is the river where John the Baptist did most of his baptizing?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nile River"
+      },
+      {
+        "label": "B",
+        "text": "Euphrates River"
+      },
+      {
+        "label": "C",
+        "text": "Jordan River"
+      },
+      {
+        "label": "D",
+        "text": "Tigris River"
+      }
+    ],
+    "answer": "Jordan River",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Jordan River."
+  },
+  {
+    "id": "mcq-63",
+    "difficulty": "Medium",
+    "question": "What is the longest chapter of the Bible?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Psalm 119"
+      },
+      {
+        "label": "B",
+        "text": "Psalm 23"
+      },
+      {
+        "label": "C",
+        "text": "Psalm 91"
+      },
+      {
+        "label": "D",
+        "text": "Psalm 150"
+      }
+    ],
+    "answer": "Psalm 119",
+    "answerLabel": "A",
+    "reference": "",
+    "explanation": "Correct answer: Psalm 119."
+  },
+  {
+    "id": "mcq-64",
+    "difficulty": "Medium",
+    "question": "Which place is called \"Zion\" and \"the city of David\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bethlehem"
+      },
+      {
+        "label": "B",
+        "text": "Nazareth"
+      },
+      {
+        "label": "C",
+        "text": "Jerusalem"
+      },
+      {
+        "label": "D",
+        "text": "Jericho"
+      }
+    ],
+    "answer": "Jerusalem",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Jerusalem."
+  },
+  {
+    "id": "mcq-65",
+    "difficulty": "Medium",
+    "question": "What is the town in Galilee that Jesus grew up in?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bethlehem"
+      },
+      {
+        "label": "B",
+        "text": "Nazareth"
+      },
+      {
+        "label": "C",
+        "text": "Capernaum"
+      },
+      {
+        "label": "D",
+        "text": "Cana"
+      }
+    ],
+    "answer": "Nazareth",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Nazareth."
+  },
+  {
+    "id": "mcq-66",
+    "difficulty": "Medium",
+    "question": "Who took Judas Iscariot's place as an apostle?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Barnabas"
+      },
+      {
+        "label": "B",
+        "text": "Silas"
+      },
+      {
+        "label": "C",
+        "text": "Matthias"
+      },
+      {
+        "label": "D",
+        "text": "Stephen"
+      }
+    ],
+    "answer": "Matthias",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Matthias."
+  },
+  {
+    "id": "mcq-67",
+    "difficulty": "Medium",
+    "question": "Which men came from the East to worship Jesus after he was born?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The shepherds"
+      },
+      {
+        "label": "B",
+        "text": "The Magi / Wise men"
+      },
+      {
+        "label": "C",
+        "text": "The scribes"
+      },
+      {
+        "label": "D",
+        "text": "The Pharisees"
+      }
+    ],
+    "answer": "The Magi / Wise men",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: The Magi / Wise men."
+  },
+  {
+    "id": "mcq-68",
+    "difficulty": "Medium",
+    "question": "Which group was the ruling council of the Jews who plotted to kill Jesus?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The Pharisees"
+      },
+      {
+        "label": "B",
+        "text": "The Sadducees"
+      },
+      {
+        "label": "C",
+        "text": "The Sanhedrin"
+      },
+      {
+        "label": "D",
+        "text": "The Essenes"
+      }
+    ],
+    "answer": "The Sanhedrin",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: The Sanhedrin."
+  },
+  {
+    "id": "mcq-69",
+    "difficulty": "Medium",
+    "question": "Which prophet was called by the Lord as a boy and anointed Saul as Israel's first king?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Elijah"
+      },
+      {
+        "label": "B",
+        "text": "Jeremiah"
+      },
+      {
+        "label": "C",
+        "text": "Samuel"
+      },
+      {
+        "label": "D",
+        "text": "Nathan"
+      }
+    ],
+    "answer": "Samuel",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Samuel."
+  },
+  {
+    "id": "mcq-70",
+    "difficulty": "Medium",
+    "question": "At which mountain did Moses receive the Ten Commandments?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mount Zion"
+      },
+      {
+        "label": "B",
+        "text": "Mount Carmel"
+      },
+      {
+        "label": "C",
+        "text": "Mount Sinai / Mt. Sinai"
+      },
+      {
+        "label": "D",
+        "text": "Mount Nebo"
+      }
+    ],
+    "answer": "Mount Sinai / Mt. Sinai",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Mount Sinai / Mt. Sinai."
+  },
+  {
+    "id": "mcq-71",
+    "difficulty": "Medium",
+    "question": "Where is the birthplace of Paul, also known as Saul?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jerusalem"
+      },
+      {
+        "label": "B",
+        "text": "Damascus"
+      },
+      {
+        "label": "C",
+        "text": "Tarsus"
+      },
+      {
+        "label": "D",
+        "text": "Antioch"
+      }
+    ],
+    "answer": "Tarsus",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Tarsus."
+  },
+  {
+    "id": "mcq-72",
+    "difficulty": "Medium",
+    "question": "Crafted by Aaron, the Israelites worshipped what idol while Moses was away?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A bronze serpent"
+      },
+      {
+        "label": "B",
+        "text": "The Golden Calf"
+      },
+      {
+        "label": "C",
+        "text": "A silver bull"
+      },
+      {
+        "label": "D",
+        "text": "A stone pillar"
+      }
+    ],
+    "answer": "The Golden Calf",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: The Golden Calf."
+  },
+  {
+    "id": "mcq-73",
+    "difficulty": "Medium",
+    "question": "Who cut off the ear of the high priest?",
+    "options": [
+      {
+        "label": "A",
+        "text": "John"
+      },
+      {
+        "label": "B",
+        "text": "James"
+      },
+      {
+        "label": "C",
+        "text": "Peter"
+      },
+      {
+        "label": "D",
+        "text": "Judas"
+      }
+    ],
+    "answer": "Peter",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Peter."
+  },
+  {
+    "id": "mcq-74",
+    "difficulty": "Medium",
+    "question": "What miracle did Jesus perform on the Sabbath?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Walking on water"
+      },
+      {
+        "label": "B",
+        "text": "Feeding the 5,000"
+      },
+      {
+        "label": "C",
+        "text": "Healing the man who was born blind"
+      },
+      {
+        "label": "D",
+        "text": "Turning water into wine"
+      }
+    ],
+    "answer": "Healing the man who was born blind",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Healing the man who was born blind."
+  },
+  {
+    "id": "mcq-75",
+    "difficulty": "Medium",
+    "question": "King Herod promised what to his daughter on his birthday?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gold and jewels"
+      },
+      {
+        "label": "B",
+        "text": "A kingdom"
+      },
+      {
+        "label": "C",
+        "text": "John the Baptist's head"
+      },
+      {
+        "label": "D",
+        "text": "A royal wedding"
+      }
+    ],
+    "answer": "John the Baptist's head",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: John the Baptist's head."
+  },
+  {
+    "id": "mcq-76",
+    "difficulty": "Medium",
+    "question": "What Roman Governor presided over Judea during the trial of Jesus?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Herod"
+      },
+      {
+        "label": "B",
+        "text": "Felix"
+      },
+      {
+        "label": "C",
+        "text": "Pontius Pilate"
+      },
+      {
+        "label": "D",
+        "text": "Festus"
+      }
+    ],
+    "answer": "Pontius Pilate",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Pontius Pilate."
+  },
+  {
+    "id": "mcq-77",
+    "difficulty": "Medium",
+    "question": "How is Jezebel killed?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Stoned to death"
+      },
+      {
+        "label": "B",
+        "text": "She is thrown from a window"
+      },
+      {
+        "label": "C",
+        "text": "Poisoned"
+      },
+      {
+        "label": "D",
+        "text": "Stabbed with a sword"
+      }
+    ],
+    "answer": "She is thrown from a window",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: She is thrown from a window."
+  },
+  {
+    "id": "mcq-78",
+    "difficulty": "Medium",
+    "question": "What is the name of the well that Abraham and Abimelech quarrel over?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Meribah"
+      },
+      {
+        "label": "B",
+        "text": "Beersheba"
+      },
+      {
+        "label": "C",
+        "text": "Elim"
+      },
+      {
+        "label": "D",
+        "text": "Marah"
+      }
+    ],
+    "answer": "Beersheba",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Beersheba."
+  },
+  {
+    "id": "mcq-79",
+    "difficulty": "Medium",
+    "question": "Who was King Solomon's mother?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Abigail"
+      },
+      {
+        "label": "B",
+        "text": "Michal"
+      },
+      {
+        "label": "C",
+        "text": "Bathsheba"
+      },
+      {
+        "label": "D",
+        "text": "Rahab"
+      }
+    ],
+    "answer": "Bathsheba",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Bathsheba."
+  },
+  {
+    "id": "mcq-80",
+    "difficulty": "Medium",
+    "question": "Who did Peter raise from the dead in the city of Joppa?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tabitha"
+      },
+      {
+        "label": "B",
+        "text": "Lydia"
+      },
+      {
+        "label": "C",
+        "text": "Dorcas"
+      },
+      {
+        "label": "D",
+        "text": "Priscilla"
+      }
+    ],
+    "answer": "Dorcas",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Dorcas."
+  },
+  {
+    "id": "mcq-81",
+    "difficulty": "Medium",
+    "question": "Which disciple was crucified upside-down?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Andrew"
+      },
+      {
+        "label": "B",
+        "text": "James"
+      },
+      {
+        "label": "C",
+        "text": "Peter"
+      },
+      {
+        "label": "D",
+        "text": "John"
+      }
+    ],
+    "answer": "Peter",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Peter."
+  },
+  {
+    "id": "mcq-82",
+    "difficulty": "Medium",
+    "question": "What two men in the Bible never died?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Moses & Joshua"
+      },
+      {
+        "label": "B",
+        "text": "Elijah & Enoch"
+      },
+      {
+        "label": "C",
+        "text": "Enoch & Noah"
+      },
+      {
+        "label": "D",
+        "text": "Elijah & Elisha"
+      }
+    ],
+    "answer": "Elijah & Enoch",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Elijah & Enoch."
+  },
+  {
+    "id": "mcq-83",
+    "difficulty": "Medium",
+    "question": "How many times did Noah send out a dove from the Ark?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Once"
+      },
+      {
+        "label": "B",
+        "text": "Twice"
+      },
+      {
+        "label": "C",
+        "text": "Three times"
+      },
+      {
+        "label": "D",
+        "text": "Four times"
+      }
+    ],
+    "answer": "Three times",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Three times."
+  },
+  {
+    "id": "mcq-84",
+    "difficulty": "Medium",
+    "question": "What did the dove bring back that let Noah know that the water was receding?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A branch"
+      },
+      {
+        "label": "B",
+        "text": "A freshly plucked olive leaf"
+      },
+      {
+        "label": "C",
+        "text": "A flower"
+      },
+      {
+        "label": "D",
+        "text": "An olive branch with fruit"
+      }
+    ],
+    "answer": "A freshly plucked olive leaf",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: A freshly plucked olive leaf."
+  },
+  {
+    "id": "mcq-85",
+    "difficulty": "Medium",
+    "question": "Who was pregnant at the same time as Mary?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sarah"
+      },
+      {
+        "label": "B",
+        "text": "Rachel"
+      },
+      {
+        "label": "C",
+        "text": "Elizabeth"
+      },
+      {
+        "label": "D",
+        "text": "Anna"
+      }
+    ],
+    "answer": "Elizabeth",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Elizabeth."
+  },
+  {
+    "id": "mcq-86",
+    "difficulty": "Medium",
+    "question": "What is the longest book in the Bible?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Isaiah"
+      },
+      {
+        "label": "B",
+        "text": "Jeremiah"
+      },
+      {
+        "label": "C",
+        "text": "Psalms"
+      },
+      {
+        "label": "D",
+        "text": "Genesis"
+      }
+    ],
+    "answer": "Psalms",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Psalms."
+  },
+  {
+    "id": "mcq-87",
+    "difficulty": "Medium",
+    "question": "In the Old Testament, which prophet foretold of Jesus' birth?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Isaiah"
+      },
+      {
+        "label": "B",
+        "text": "Jeremiah"
+      },
+      {
+        "label": "C",
+        "text": "Micah"
+      },
+      {
+        "label": "D",
+        "text": "Zechariah"
+      }
+    ],
+    "answer": "Micah",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Micah."
+  },
+  {
+    "id": "mcq-88",
+    "difficulty": "Medium",
+    "question": "Who was the only female judge mentioned in the Bible?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Miriam"
+      },
+      {
+        "label": "B",
+        "text": "Deborah"
+      },
+      {
+        "label": "C",
+        "text": "Huldah"
+      },
+      {
+        "label": "D",
+        "text": "Esther"
+      }
+    ],
+    "answer": "Deborah",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Deborah."
+  },
+  {
+    "id": "mcq-89",
+    "difficulty": "Medium",
+    "question": "Which woman washed Jesus' feet?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Martha"
+      },
+      {
+        "label": "B",
+        "text": "Mary of Bethany"
+      },
+      {
+        "label": "C",
+        "text": "Mary Magdalene / An unnamed woman with her tears and hair"
+      },
+      {
+        "label": "D",
+        "text": "The Samaritan woman"
+      }
+    ],
+    "answer": "Mary Magdalene / An unnamed woman with her tears and hair",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Mary Magdalene / An unnamed woman with her tears and hair."
+  },
+  {
+    "id": "mcq-90",
+    "difficulty": "Medium",
+    "question": "What language is the New Testament originally written in?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hebrew"
+      },
+      {
+        "label": "B",
+        "text": "Aramaic"
+      },
+      {
+        "label": "C",
+        "text": "Greek"
+      },
+      {
+        "label": "D",
+        "text": "Latin"
+      }
+    ],
+    "answer": "Greek",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Greek."
+  },
+  {
+    "id": "mcq-91",
+    "difficulty": "Medium",
+    "question": "Where did the ark come to rest after the flood?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mount Sinai"
+      },
+      {
+        "label": "B",
+        "text": "Mount Zion"
+      },
+      {
+        "label": "C",
+        "text": "The mountains of Ararat"
+      },
+      {
+        "label": "D",
+        "text": "Mount Carmel"
+      }
+    ],
+    "answer": "The mountains of Ararat",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: The mountains of Ararat."
+  },
+  {
+    "id": "mcq-92",
+    "difficulty": "Medium",
+    "question": "How many loaves and fishes did Jesus Christ feed the 5,000 with?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Three loaves and one fish"
+      },
+      {
+        "label": "B",
+        "text": "Five loaves and two fishes"
+      },
+      {
+        "label": "C",
+        "text": "Seven loaves and three fishes"
+      },
+      {
+        "label": "D",
+        "text": "Two loaves and five fishes"
+      }
+    ],
+    "answer": "Five loaves and two fishes",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Five loaves and two fishes."
+  },
+  {
+    "id": "mcq-93",
+    "difficulty": "Medium",
+    "question": "\"The Lord is my shepherd; I shall not want.\" What Psalm does this Bible verse come from?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Psalm 1"
+      },
+      {
+        "label": "B",
+        "text": "Psalm 51"
+      },
+      {
+        "label": "C",
+        "text": "Psalm 23"
+      },
+      {
+        "label": "D",
+        "text": "Psalm 100"
+      }
+    ],
+    "answer": "Psalm 23",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Psalm 23."
+  },
+  {
+    "id": "mcq-94",
+    "difficulty": "Medium",
+    "question": "What were the crimes of the two men who were crucified with Jesus?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Murder"
+      },
+      {
+        "label": "B",
+        "text": "They were thieves"
+      },
+      {
+        "label": "C",
+        "text": "Blasphemy"
+      },
+      {
+        "label": "D",
+        "text": "Rebellion"
+      }
+    ],
+    "answer": "They were thieves",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: They were thieves."
+  },
+  {
+    "id": "mcq-95",
+    "difficulty": "Medium",
+    "question": "What were Lazarus' sister's names?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rachel & Leah"
+      },
+      {
+        "label": "B",
+        "text": "Mary & Martha"
+      },
+      {
+        "label": "C",
+        "text": "Miriam & Hannah"
+      },
+      {
+        "label": "D",
+        "text": "Ruth & Naomi"
+      }
+    ],
+    "answer": "Mary & Martha",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Mary & Martha."
+  },
+  {
+    "id": "mcq-96",
+    "difficulty": "Medium",
+    "question": "Who demanded John the Baptist's head on a platter?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Salome"
+      },
+      {
+        "label": "B",
+        "text": "Herodias"
+      },
+      {
+        "label": "C",
+        "text": "Herod's daughter"
+      },
+      {
+        "label": "D",
+        "text": "The Pharisees"
+      }
+    ],
+    "answer": "Herodias",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Herodias."
+  },
+  {
+    "id": "mcq-97",
+    "difficulty": "Medium",
+    "question": "With what did Samson kill 1,000 Philistines?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A sword"
+      },
+      {
+        "label": "B",
+        "text": "The jaw/jawbone of a donkey"
+      },
+      {
+        "label": "C",
+        "text": "A sling"
+      },
+      {
+        "label": "D",
+        "text": "His bare hands"
+      }
+    ],
+    "answer": "The jaw/jawbone of a donkey",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: The jaw/jawbone of a donkey."
+  },
+  {
+    "id": "mcq-98",
+    "difficulty": "Medium",
+    "question": "Where did David spare Saul's life the first and second times?",
+    "options": [
+      {
+        "label": "A",
+        "text": "First time: In the wilderness; Second time: In the palace"
+      },
+      {
+        "label": "B",
+        "text": "First time: In a cave; Second time: In the camp where Saul was sleeping"
+      },
+      {
+        "label": "C",
+        "text": "First time: In the desert; Second time: In the city"
+      },
+      {
+        "label": "D",
+        "text": "First time: In the mountains; Second time: In the valley"
+      }
+    ],
+    "answer": "First time: In a cave; Second time: In the camp where Saul was sleeping",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: First time: In a cave; Second time: In the camp where Saul was sleeping."
+  },
+  {
+    "id": "mcq-99",
+    "difficulty": "Medium",
+    "question": "How did Saul die?",
+    "options": [
+      {
+        "label": "A",
+        "text": "He was killed in battle"
+      },
+      {
+        "label": "B",
+        "text": "He was assassinated"
+      },
+      {
+        "label": "C",
+        "text": "He fell on his own sword"
+      },
+      {
+        "label": "D",
+        "text": "He died of old age"
+      }
+    ],
+    "answer": "He fell on his own sword",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: He fell on his own sword."
+  },
+  {
+    "id": "mcq-100",
+    "difficulty": "Medium",
+    "question": "How many kings of Judah and Israel were there?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20 kings of Judah and 18 kings of Israel"
+      },
+      {
+        "label": "B",
+        "text": "20 kings of Judah and 19 kings of Israel"
+      },
+      {
+        "label": "C",
+        "text": "19 kings of Judah and 20 kings of Israel"
+      },
+      {
+        "label": "D",
+        "text": "21 kings of Judah and 18 kings of Israel"
+      }
+    ],
+    "answer": "20 kings of Judah and 19 kings of Israel",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: 20 kings of Judah and 19 kings of Israel."
+  },
+  {
+    "id": "mcq-101",
+    "difficulty": "Medium",
+    "question": "What does the Lord anoint my head with in Psalm 23?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Water"
+      },
+      {
+        "label": "B",
+        "text": "Perfume"
+      },
+      {
+        "label": "C",
+        "text": "Oil"
+      },
+      {
+        "label": "D",
+        "text": "Honey"
+      }
+    ],
+    "answer": "Oil",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Oil."
+  },
+  {
+    "id": "mcq-102",
+    "difficulty": "Medium",
+    "question": "How much of his wealth did Zacchaeus give to the poor?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A quarter of it"
+      },
+      {
+        "label": "B",
+        "text": "A third of it"
+      },
+      {
+        "label": "C",
+        "text": "Half of it"
+      },
+      {
+        "label": "D",
+        "text": "All of it"
+      }
+    ],
+    "answer": "Half of it",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Half of it."
+  },
+  {
+    "id": "mcq-103",
+    "difficulty": "Medium",
+    "question": "What are the names of the twins that wrestled in their mother's womb?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Esau & Ishmael"
+      },
+      {
+        "label": "B",
+        "text": "Jacob & Esau"
+      },
+      {
+        "label": "C",
+        "text": "Joseph & Benjamin"
+      },
+      {
+        "label": "D",
+        "text": "Jacob & Laban"
+      }
+    ],
+    "answer": "Jacob & Esau",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Jacob & Esau."
+  },
+  {
+    "id": "mcq-104",
+    "difficulty": "Medium",
+    "question": "When Jesus died, what three things happened?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Darkness, thunder, and lightning"
+      },
+      {
+        "label": "B",
+        "text": "Earthquake, veil in the temple torn, tombs broke open"
+      },
+      {
+        "label": "C",
+        "text": "Wind, fire, and earthquake"
+      },
+      {
+        "label": "D",
+        "text": "Darkness, earthquake, and fire"
+      }
+    ],
+    "answer": "Earthquake, veil in the temple torn, tombs broke open",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Earthquake, veil in the temple torn, tombs broke open."
+  },
+  {
+    "id": "mcq-105",
+    "difficulty": "Medium",
+    "question": "How was Ruth related to Naomi?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ruth was Naomi's sister"
+      },
+      {
+        "label": "B",
+        "text": "Ruth was Naomi's daughter-in-law"
+      },
+      {
+        "label": "C",
+        "text": "Ruth was Naomi's cousin"
+      },
+      {
+        "label": "D",
+        "text": "Ruth was Naomi's servant"
+      }
+    ],
+    "answer": "Ruth was Naomi's daughter-in-law",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Ruth was Naomi's daughter-in-law."
+  },
+  {
+    "id": "mcq-106",
+    "difficulty": "Medium",
+    "question": "Who was Caesar when Jesus was born?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tiberius"
+      },
+      {
+        "label": "B",
+        "text": "Augustus"
+      },
+      {
+        "label": "C",
+        "text": "Claudius"
+      },
+      {
+        "label": "D",
+        "text": "Nero"
+      }
+    ],
+    "answer": "Augustus",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Augustus."
+  },
+  {
+    "id": "mcq-107",
+    "difficulty": "Medium",
+    "question": "Which mischievous woman tricked Samson into revealing the secret of his strength?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jezebel"
+      },
+      {
+        "label": "B",
+        "text": "Athaliah"
+      },
+      {
+        "label": "C",
+        "text": "Delilah"
+      },
+      {
+        "label": "D",
+        "text": "Hagar"
+      }
+    ],
+    "answer": "Delilah",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Delilah."
+  },
+  {
+    "id": "mcq-108",
+    "difficulty": "Medium",
+    "question": "What prophet fled to Tarshish when he got caught up in a storm?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Elijah"
+      },
+      {
+        "label": "B",
+        "text": "Jonah"
+      },
+      {
+        "label": "C",
+        "text": "Jeremiah"
+      },
+      {
+        "label": "D",
+        "text": "Nahum"
+      }
+    ],
+    "answer": "Jonah",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Jonah."
+  },
+  {
+    "id": "mcq-109",
+    "difficulty": "Medium",
+    "question": "Which prophet was fed by ravens?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Elisha"
+      },
+      {
+        "label": "B",
+        "text": "Elijah"
+      },
+      {
+        "label": "C",
+        "text": "Isaiah"
+      },
+      {
+        "label": "D",
+        "text": "Jeremiah"
+      }
+    ],
+    "answer": "Elijah",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Elijah."
+  },
+  {
+    "id": "mcq-110",
+    "difficulty": "Medium",
+    "question": "What happened to Lot's wife when she looked back at the city of Sodom?",
+    "options": [
+      {
+        "label": "A",
+        "text": "She was struck blind"
+      },
+      {
+        "label": "B",
+        "text": "She turned into a pillar of salt"
+      },
+      {
+        "label": "C",
+        "text": "She fell to the ground dead"
+      },
+      {
+        "label": "D",
+        "text": "She disappeared"
+      }
+    ],
+    "answer": "She turned into a pillar of salt",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: She turned into a pillar of salt."
+  },
+  {
+    "id": "mcq-111",
+    "difficulty": "Medium",
+    "question": "Which Queen visited King Solomon because she had heard of his fame?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The Queen of Sheba"
+      },
+      {
+        "label": "B",
+        "text": "The Queen of Egypt"
+      },
+      {
+        "label": "C",
+        "text": "The Queen of Sheba"
+      },
+      {
+        "label": "D",
+        "text": "The Queen of Arabia"
+      }
+    ],
+    "answer": "The Queen of Sheba",
+    "answerLabel": "A",
+    "reference": "",
+    "explanation": "Correct answer: The Queen of Sheba."
+  },
+  {
+    "id": "mcq-112",
+    "difficulty": "Medium",
+    "question": "Ten men with what condition were healed by Jesus?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Blindness"
+      },
+      {
+        "label": "B",
+        "text": "Leprosy"
+      },
+      {
+        "label": "C",
+        "text": "Paralysis"
+      },
+      {
+        "label": "D",
+        "text": "Deafness"
+      }
+    ],
+    "answer": "Leprosy",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Leprosy."
+  },
+  {
+    "id": "mcq-113",
+    "difficulty": "Medium",
+    "question": "Which Pharisee had a private meeting with Jesus at night?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Joseph of Arimathea"
+      },
+      {
+        "label": "B",
+        "text": "Nicodemus"
+      },
+      {
+        "label": "C",
+        "text": "Gamaliel"
+      },
+      {
+        "label": "D",
+        "text": "Simon the Pharisee"
+      }
+    ],
+    "answer": "Nicodemus",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Nicodemus."
+  },
+  {
+    "id": "mcq-114",
+    "difficulty": "Medium",
+    "question": "Name the garden where Jesus went to pray after the Last Supper?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Garden of Gethsemane"
+      },
+      {
+        "label": "B",
+        "text": "Garden of Eden"
+      },
+      {
+        "label": "C",
+        "text": "Garden of Golgotha"
+      },
+      {
+        "label": "D",
+        "text": "Garden of Bethany"
+      }
+    ],
+    "answer": "Garden of Gethsemane",
+    "answerLabel": "A",
+    "reference": "",
+    "explanation": "Correct answer: Garden of Gethsemane."
+  },
+  {
+    "id": "mcq-115",
+    "difficulty": "Hard",
+    "question": "In 2 Kings 7, who sacked the Syrian camp?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The Israelites"
+      },
+      {
+        "label": "B",
+        "text": "Lepers"
+      },
+      {
+        "label": "C",
+        "text": "The Philistines"
+      },
+      {
+        "label": "D",
+        "text": "The Egyptians"
+      }
+    ],
+    "answer": "Lepers",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Lepers."
+  },
+  {
+    "id": "mcq-116",
+    "difficulty": "Hard",
+    "question": "In 2 Kings 8, how long is the famine that Elisha prophesies?",
+    "options": [
+      {
+        "label": "A",
+        "text": "5 years"
+      },
+      {
+        "label": "B",
+        "text": "7 years"
+      },
+      {
+        "label": "C",
+        "text": "3 years"
+      },
+      {
+        "label": "D",
+        "text": "10 years"
+      }
+    ],
+    "answer": "7 years",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: 7 years."
+  },
+  {
+    "id": "mcq-117",
+    "difficulty": "Hard",
+    "question": "How many sons did Ahab have in Samaria?",
+    "options": [
+      {
+        "label": "A",
+        "text": "50"
+      },
+      {
+        "label": "B",
+        "text": "60"
+      },
+      {
+        "label": "C",
+        "text": "70"
+      },
+      {
+        "label": "D",
+        "text": "80"
+      }
+    ],
+    "answer": "70",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: 70."
+  },
+  {
+    "id": "mcq-118",
+    "difficulty": "Hard",
+    "question": "How many blemishes was a sacrificial beast allowed to have?",
+    "options": [
+      {
+        "label": "A",
+        "text": "One"
+      },
+      {
+        "label": "B",
+        "text": "Two"
+      },
+      {
+        "label": "C",
+        "text": "Zero"
+      },
+      {
+        "label": "D",
+        "text": "Three"
+      }
+    ],
+    "answer": "Zero",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Zero."
+  },
+  {
+    "id": "mcq-119",
+    "difficulty": "Hard",
+    "question": "If a person sinned ignorantly at the time of Moses, what happened to them?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They were stoned"
+      },
+      {
+        "label": "B",
+        "text": "They had to sacrifice something"
+      },
+      {
+        "label": "C",
+        "text": "They were exiled"
+      },
+      {
+        "label": "D",
+        "text": "They were fined"
+      }
+    ],
+    "answer": "They had to sacrifice something",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: They had to sacrifice something."
+  },
+  {
+    "id": "mcq-120",
+    "difficulty": "Hard",
+    "question": "How many years did Sarah live?",
+    "options": [
+      {
+        "label": "A",
+        "text": "100"
+      },
+      {
+        "label": "B",
+        "text": "120"
+      },
+      {
+        "label": "C",
+        "text": "127"
+      },
+      {
+        "label": "D",
+        "text": "137"
+      }
+    ],
+    "answer": "127",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: 127."
+  },
+  {
+    "id": "mcq-121",
+    "difficulty": "Hard",
+    "question": "In the Song of Songs, how much is the bride's dowry?",
+    "options": [
+      {
+        "label": "A",
+        "text": "500 silver pieces"
+      },
+      {
+        "label": "B",
+        "text": "1,000 silver pieces"
+      },
+      {
+        "label": "C",
+        "text": "1,500 silver pieces"
+      },
+      {
+        "label": "D",
+        "text": "2,000 silver pieces"
+      }
+    ],
+    "answer": "1,000 silver pieces",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: 1,000 silver pieces."
+  },
+  {
+    "id": "mcq-122",
+    "difficulty": "Hard",
+    "question": "In 2 Sam 14, how did the wise woman disguise herself?",
+    "options": [
+      {
+        "label": "A",
+        "text": "As a princess"
+      },
+      {
+        "label": "B",
+        "text": "As a mourner"
+      },
+      {
+        "label": "C",
+        "text": "As a servant"
+      },
+      {
+        "label": "D",
+        "text": "As a widow"
+      }
+    ],
+    "answer": "As a mourner",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: As a mourner."
+  },
+  {
+    "id": "mcq-123",
+    "difficulty": "Hard",
+    "question": "Who is David's chief counselor?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hushai"
+      },
+      {
+        "label": "B",
+        "text": "Nathan"
+      },
+      {
+        "label": "C",
+        "text": "Ahithophel"
+      },
+      {
+        "label": "D",
+        "text": "Zadok"
+      }
+    ],
+    "answer": "Ahithophel",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Ahithophel."
+  },
+  {
+    "id": "mcq-124",
+    "difficulty": "Hard",
+    "question": "Who warned Paul of the plot against him?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Barnabas"
+      },
+      {
+        "label": "B",
+        "text": "Silas"
+      },
+      {
+        "label": "C",
+        "text": "His nephew"
+      },
+      {
+        "label": "D",
+        "text": "Luke"
+      }
+    ],
+    "answer": "His nephew",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: His nephew."
+  },
+  {
+    "id": "mcq-125",
+    "difficulty": "Hard",
+    "question": "Who was the governor that heard the council's case against Paul?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Festus"
+      },
+      {
+        "label": "B",
+        "text": "Pilate"
+      },
+      {
+        "label": "C",
+        "text": "Felix"
+      },
+      {
+        "label": "D",
+        "text": "Herod"
+      }
+    ],
+    "answer": "Felix",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Felix."
+  },
+  {
+    "id": "mcq-126",
+    "difficulty": "Hard",
+    "question": "What did Felix feel when Paul told him of Christ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Anger"
+      },
+      {
+        "label": "B",
+        "text": "Joy"
+      },
+      {
+        "label": "C",
+        "text": "Fear"
+      },
+      {
+        "label": "D",
+        "text": "Indifference"
+      }
+    ],
+    "answer": "Fear",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Fear."
+  },
+  {
+    "id": "mcq-127",
+    "difficulty": "Hard",
+    "question": "Who was the King that crowned Esther the queen?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Darius"
+      },
+      {
+        "label": "B",
+        "text": "Cyrus"
+      },
+      {
+        "label": "C",
+        "text": "Ahasuerus"
+      },
+      {
+        "label": "D",
+        "text": "Artaxerxes"
+      }
+    ],
+    "answer": "Ahasuerus",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Ahasuerus."
+  },
+  {
+    "id": "mcq-128",
+    "difficulty": "Hard",
+    "question": "To create the plague of frogs, who stretched his rod over the waters of Egypt?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Moses"
+      },
+      {
+        "label": "B",
+        "text": "Aaron"
+      },
+      {
+        "label": "C",
+        "text": "Joshua"
+      },
+      {
+        "label": "D",
+        "text": "Caleb"
+      }
+    ],
+    "answer": "Aaron",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Aaron."
+  },
+  {
+    "id": "mcq-129",
+    "difficulty": "Hard",
+    "question": "Which city mentioned in Revelation is also an American city?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Smyrna"
+      },
+      {
+        "label": "B",
+        "text": "Sardis"
+      },
+      {
+        "label": "C",
+        "text": "Philadelphia"
+      },
+      {
+        "label": "D",
+        "text": "Thyatira"
+      }
+    ],
+    "answer": "Philadelphia",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Philadelphia."
+  },
+  {
+    "id": "mcq-130",
+    "difficulty": "Hard",
+    "question": "Who did God say would worship at the feet of the angel of the Church of Philadelphia?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The Romans"
+      },
+      {
+        "label": "B",
+        "text": "The false Jews of the synagogue of Satan"
+      },
+      {
+        "label": "C",
+        "text": "The Greeks"
+      },
+      {
+        "label": "D",
+        "text": "The Persians"
+      }
+    ],
+    "answer": "The false Jews of the synagogue of Satan",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: The false Jews of the synagogue of Satan."
+  },
+  {
+    "id": "mcq-131",
+    "difficulty": "Hard",
+    "question": "Where was the book of 2 Timothy written?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Athens"
+      },
+      {
+        "label": "B",
+        "text": "Ephesus"
+      },
+      {
+        "label": "C",
+        "text": "Rome"
+      },
+      {
+        "label": "D",
+        "text": "Corinth"
+      }
+    ],
+    "answer": "Rome",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Rome."
+  },
+  {
+    "id": "mcq-132",
+    "difficulty": "Hard",
+    "question": "Who said \"The time of my departure is at hand\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Peter"
+      },
+      {
+        "label": "B",
+        "text": "John"
+      },
+      {
+        "label": "C",
+        "text": "Paul"
+      },
+      {
+        "label": "D",
+        "text": "James"
+      }
+    ],
+    "answer": "Paul",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Paul."
+  },
+  {
+    "id": "mcq-133",
+    "difficulty": "Hard",
+    "question": "How many children did King Rehoboam have?",
+    "options": [
+      {
+        "label": "A",
+        "text": "60"
+      },
+      {
+        "label": "B",
+        "text": "78"
+      },
+      {
+        "label": "C",
+        "text": "88"
+      },
+      {
+        "label": "D",
+        "text": "98"
+      }
+    ],
+    "answer": "88",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: 88."
+  },
+  {
+    "id": "mcq-134",
+    "difficulty": "Hard",
+    "question": "Who was Samuel's father?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Eli"
+      },
+      {
+        "label": "B",
+        "text": "Elkanah"
+      },
+      {
+        "label": "C",
+        "text": "Abihu"
+      },
+      {
+        "label": "D",
+        "text": "Phinehas"
+      }
+    ],
+    "answer": "Elkanah",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Elkanah."
+  },
+  {
+    "id": "mcq-135",
+    "difficulty": "Hard",
+    "question": "Who is Methuselah's father?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Adam"
+      },
+      {
+        "label": "B",
+        "text": "Seth"
+      },
+      {
+        "label": "C",
+        "text": "Enoch"
+      },
+      {
+        "label": "D",
+        "text": "Lamech"
+      }
+    ],
+    "answer": "Enoch",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Enoch."
+  },
+  {
+    "id": "mcq-136",
+    "difficulty": "Hard",
+    "question": "What is the name commonly given to the first five books of the Old Testament, and what does it mean?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The Torah; it means \"law\""
+      },
+      {
+        "label": "B",
+        "text": "The Pentateuch; it means \"five books\" or \"five scrolls\""
+      },
+      {
+        "label": "C",
+        "text": "The Prophets; it means \"messengers\""
+      },
+      {
+        "label": "D",
+        "text": "The Writings; it means \"poems\""
+      }
+    ],
+    "answer": "The Pentateuch; it means \"five books\" or \"five scrolls\"",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: The Pentateuch; it means \"five books\" or \"five scrolls\"."
+  },
+  {
+    "id": "mcq-137",
+    "difficulty": "Hard",
+    "question": "At what age did Moses die?",
+    "options": [
+      {
+        "label": "A",
+        "text": "100"
+      },
+      {
+        "label": "B",
+        "text": "110"
+      },
+      {
+        "label": "C",
+        "text": "120"
+      },
+      {
+        "label": "D",
+        "text": "130"
+      }
+    ],
+    "answer": "120",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: 120."
+  },
+  {
+    "id": "mcq-138",
+    "difficulty": "Hard",
+    "question": "Whose father tied him up and put him on the altar as a sacrifice until Jehovah provided a sheep?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ishmael"
+      },
+      {
+        "label": "B",
+        "text": "Isaac"
+      },
+      {
+        "label": "C",
+        "text": "Jacob"
+      },
+      {
+        "label": "D",
+        "text": "Joseph"
+      }
+    ],
+    "answer": "Isaac",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Isaac."
+  },
+  {
+    "id": "mcq-139",
+    "difficulty": "Hard",
+    "question": "Who is the wife of Jacob?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rachel and Miriam"
+      },
+      {
+        "label": "B",
+        "text": "Rachel (and Leah)"
+      },
+      {
+        "label": "C",
+        "text": "Leah and Zilpah"
+      },
+      {
+        "label": "D",
+        "text": "Rachel and Bilhah"
+      }
+    ],
+    "answer": "Rachel (and Leah)",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Rachel (and Leah)."
+  },
+  {
+    "id": "mcq-140",
+    "difficulty": "Hard",
+    "question": "Which Midianite woman married Moses?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Miriam"
+      },
+      {
+        "label": "B",
+        "text": "Zipporah"
+      },
+      {
+        "label": "C",
+        "text": "Jochebed"
+      },
+      {
+        "label": "D",
+        "text": "Abigail"
+      }
+    ],
+    "answer": "Zipporah",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Zipporah."
+  },
+  {
+    "id": "mcq-141",
+    "difficulty": "Hard",
+    "question": "What girl was offered as a sacrifice by her father?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Miriam"
+      },
+      {
+        "label": "B",
+        "text": "Jephthah's daughter"
+      },
+      {
+        "label": "C",
+        "text": "Deborah"
+      },
+      {
+        "label": "D",
+        "text": "Huldah"
+      }
+    ],
+    "answer": "Jephthah's daughter",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Jephthah's daughter."
+  },
+  {
+    "id": "mcq-142",
+    "difficulty": "Hard",
+    "question": "Which Egyptian wife caused Joseph to be thrown into prison?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hagar"
+      },
+      {
+        "label": "B",
+        "text": "The wife of Potiphar"
+      },
+      {
+        "label": "C",
+        "text": "Zipporah"
+      },
+      {
+        "label": "D",
+        "text": "Pharaoh's daughter"
+      }
+    ],
+    "answer": "The wife of Potiphar",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: The wife of Potiphar."
+  },
+  {
+    "id": "mcq-143",
+    "difficulty": "Hard",
+    "question": "In the book of Daniel, the beast is described as being as swift as what animal?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lion"
+      },
+      {
+        "label": "B",
+        "text": "Bear"
+      },
+      {
+        "label": "C",
+        "text": "Leopard"
+      },
+      {
+        "label": "D",
+        "text": "Wolf"
+      }
+    ],
+    "answer": "Leopard",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Leopard."
+  },
+  {
+    "id": "mcq-144",
+    "difficulty": "Hard",
+    "question": "How many years were the Israelites in captivity when Ezekiel received his Vision of Jerusalem?",
+    "options": [
+      {
+        "label": "A",
+        "text": "4 years"
+      },
+      {
+        "label": "B",
+        "text": "5 years"
+      },
+      {
+        "label": "C",
+        "text": "6 years"
+      },
+      {
+        "label": "D",
+        "text": "7 years"
+      }
+    ],
+    "answer": "6 years",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: 6 years."
+  },
+  {
+    "id": "mcq-145",
+    "difficulty": "Hard",
+    "question": "What was the one thing Elijah left behind when God took him to heaven?",
+    "options": [
+      {
+        "label": "A",
+        "text": "His staff"
+      },
+      {
+        "label": "B",
+        "text": "His cloak"
+      },
+      {
+        "label": "C",
+        "text": "His sandals"
+      },
+      {
+        "label": "D",
+        "text": "His girdle"
+      }
+    ],
+    "answer": "His cloak",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: His cloak."
+  },
+  {
+    "id": "mcq-146",
+    "difficulty": "Hard",
+    "question": "What is described as an \"unruly evil full of deadly poison\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The heart"
+      },
+      {
+        "label": "B",
+        "text": "The mind"
+      },
+      {
+        "label": "C",
+        "text": "The tongue"
+      },
+      {
+        "label": "D",
+        "text": "The hand"
+      }
+    ],
+    "answer": "The tongue",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: The tongue."
+  },
+  {
+    "id": "mcq-147",
+    "difficulty": "Hard",
+    "question": "\"We are made as the filth of the world, and are the offscouring of all things unto this day,\" wrote Paul, referring to whom?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The Corinthians"
+      },
+      {
+        "label": "B",
+        "text": "The apostles"
+      },
+      {
+        "label": "C",
+        "text": "The Gentiles"
+      },
+      {
+        "label": "D",
+        "text": "The Jews"
+      }
+    ],
+    "answer": "The apostles",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: The apostles."
+  },
+  {
+    "id": "mcq-148",
+    "difficulty": "Hard",
+    "question": "What wife of Nabal later became David's wife?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Michal"
+      },
+      {
+        "label": "B",
+        "text": "Bathsheba"
+      },
+      {
+        "label": "C",
+        "text": "Abigail"
+      },
+      {
+        "label": "D",
+        "text": "Ahinoam"
+      }
+    ],
+    "answer": "Abigail",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Abigail."
+  },
+  {
+    "id": "mcq-149",
+    "difficulty": "Hard",
+    "question": "Noah was tenth in line from which man?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Seth"
+      },
+      {
+        "label": "B",
+        "text": "Enoch"
+      },
+      {
+        "label": "C",
+        "text": "Adam"
+      },
+      {
+        "label": "D",
+        "text": "Cain"
+      }
+    ],
+    "answer": "Adam",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Adam."
+  },
+  {
+    "id": "mcq-150",
+    "difficulty": "Hard",
+    "question": "After the start of his trials, Job calls down evil upon which day?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The day he was married"
+      },
+      {
+        "label": "B",
+        "text": "His birthday"
+      },
+      {
+        "label": "C",
+        "text": "The day his children died"
+      },
+      {
+        "label": "D",
+        "text": "The day he lost his wealth"
+      }
+    ],
+    "answer": "His birthday",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: His birthday."
+  },
+  {
+    "id": "mcq-151",
+    "difficulty": "Hard",
+    "question": "Who was Jesse's grandson and was the richest and most powerful king in Israel's history?",
+    "options": [
+      {
+        "label": "A",
+        "text": "David"
+      },
+      {
+        "label": "B",
+        "text": "Solomon"
+      },
+      {
+        "label": "C",
+        "text": "Hezekiah"
+      },
+      {
+        "label": "D",
+        "text": "Josiah"
+      }
+    ],
+    "answer": "Solomon",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Solomon."
+  },
+  {
+    "id": "mcq-152",
+    "difficulty": "Hard",
+    "question": "Who started Sunday School?",
+    "options": [
+      {
+        "label": "A",
+        "text": "John Wesley"
+      },
+      {
+        "label": "B",
+        "text": "Martin Luther"
+      },
+      {
+        "label": "C",
+        "text": "Robert Raikes & Thomas Stock"
+      },
+      {
+        "label": "D",
+        "text": "William Carey"
+      }
+    ],
+    "answer": "Robert Raikes & Thomas Stock",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Robert Raikes & Thomas Stock."
+  },
+  {
+    "id": "mcq-153",
+    "difficulty": "Hard",
+    "question": "What does \"Mara\" mean?",
+    "options": [
+      {
+        "label": "A",
+        "text": "\"Sorrow\""
+      },
+      {
+        "label": "B",
+        "text": "\"Bitter\""
+      },
+      {
+        "label": "C",
+        "text": "\"Sweet\""
+      },
+      {
+        "label": "D",
+        "text": "\"Blessed\""
+      }
+    ],
+    "answer": "\"Bitter\"",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: \"Bitter\"."
+  },
+  {
+    "id": "mcq-154",
+    "difficulty": "Hard",
+    "question": "Where do we read the nine Gifts of the Holy Spirit?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Romans 12"
+      },
+      {
+        "label": "B",
+        "text": "Ephesians 4"
+      },
+      {
+        "label": "C",
+        "text": "1 Corinthians 12:8-11"
+      },
+      {
+        "label": "D",
+        "text": "Galatians 5"
+      }
+    ],
+    "answer": "1 Corinthians 12:8-11",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: 1 Corinthians 12:8-11."
+  },
+  {
+    "id": "mcq-155",
+    "difficulty": "Hard",
+    "question": "Out of the mouth of which animal did a coin appear in the book of Matthew?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Snake"
+      },
+      {
+        "label": "B",
+        "text": "Fish"
+      },
+      {
+        "label": "C",
+        "text": "Bird"
+      },
+      {
+        "label": "D",
+        "text": "Camel"
+      }
+    ],
+    "answer": "Fish",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Fish."
+  },
+  {
+    "id": "mcq-156",
+    "difficulty": "Hard",
+    "question": "How did Ehud lose his knife?",
+    "options": [
+      {
+        "label": "A",
+        "text": "He dropped it in the river"
+      },
+      {
+        "label": "B",
+        "text": "He lost it in battle"
+      },
+      {
+        "label": "C",
+        "text": "He stuck it into the King's fat and the fat consumed it"
+      },
+      {
+        "label": "D",
+        "text": "He gave it away"
+      }
+    ],
+    "answer": "He stuck it into the King's fat and the fat consumed it",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: He stuck it into the King's fat and the fat consumed it."
+  },
+  {
+    "id": "mcq-157",
+    "difficulty": "Hard",
+    "question": "Which animal were men mauled by when they insulted Elisha for being bald?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lions"
+      },
+      {
+        "label": "B",
+        "text": "Bears"
+      },
+      {
+        "label": "C",
+        "text": "Wolves"
+      },
+      {
+        "label": "D",
+        "text": "Leopards"
+      }
+    ],
+    "answer": "Bears",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Bears."
+  },
+  {
+    "id": "mcq-158",
+    "difficulty": "Hard",
+    "question": "Which book tells of seven seals and seven trumpets?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Daniel"
+      },
+      {
+        "label": "B",
+        "text": "Ezekiel"
+      },
+      {
+        "label": "C",
+        "text": "Revelation"
+      },
+      {
+        "label": "D",
+        "text": "Zechariah"
+      }
+    ],
+    "answer": "Revelation",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Revelation."
+  },
+  {
+    "id": "mcq-159",
+    "difficulty": "Hard",
+    "question": "Which prophet had to lay on his left side for six months?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jeremiah"
+      },
+      {
+        "label": "B",
+        "text": "Daniel"
+      },
+      {
+        "label": "C",
+        "text": "Ezekiel"
+      },
+      {
+        "label": "D",
+        "text": "Isaiah"
+      }
+    ],
+    "answer": "Ezekiel",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Ezekiel."
+  },
+  {
+    "id": "mcq-160",
+    "difficulty": "Hard",
+    "question": "What was the name of the demon who possessed the man in the tomb?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Beelzebub"
+      },
+      {
+        "label": "B",
+        "text": "Satan"
+      },
+      {
+        "label": "C",
+        "text": "Legion"
+      },
+      {
+        "label": "D",
+        "text": "Abaddon"
+      }
+    ],
+    "answer": "Legion",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Legion."
+  },
+  {
+    "id": "mcq-161",
+    "difficulty": "Hard",
+    "question": "In the book of Job, dinosaurs are called what?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Leviathans"
+      },
+      {
+        "label": "B",
+        "text": "Behemoths"
+      },
+      {
+        "label": "C",
+        "text": "Dragons"
+      },
+      {
+        "label": "D",
+        "text": "Serpents"
+      }
+    ],
+    "answer": "Behemoths",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Behemoths."
+  },
+  {
+    "id": "mcq-162",
+    "difficulty": "Hard",
+    "question": "Which chapter of Hebrews tells of great heroes of faith?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hebrews 10"
+      },
+      {
+        "label": "B",
+        "text": "Hebrews 11"
+      },
+      {
+        "label": "C",
+        "text": "Hebrews 12"
+      },
+      {
+        "label": "D",
+        "text": "Hebrews 13"
+      }
+    ],
+    "answer": "Hebrews 11",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Hebrews 11."
+  },
+  {
+    "id": "mcq-163",
+    "difficulty": "Hard",
+    "question": "Isaiah lived in which city?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bethlehem"
+      },
+      {
+        "label": "B",
+        "text": "Nazareth"
+      },
+      {
+        "label": "C",
+        "text": "Jerusalem"
+      },
+      {
+        "label": "D",
+        "text": "Jericho"
+      }
+    ],
+    "answer": "Jerusalem",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Jerusalem."
+  },
+  {
+    "id": "mcq-164",
+    "difficulty": "Hard",
+    "question": "In what language was most of the Old Testament given?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Greek"
+      },
+      {
+        "label": "B",
+        "text": "Aramaic"
+      },
+      {
+        "label": "C",
+        "text": "Hebrew"
+      },
+      {
+        "label": "D",
+        "text": "Latin"
+      }
+    ],
+    "answer": "Hebrew",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Hebrew."
+  },
+  {
+    "id": "mcq-165",
+    "difficulty": "Hard",
+    "question": "Which human author wrote the most words in the Bible?",
+    "options": [
+      {
+        "label": "A",
+        "text": "David"
+      },
+      {
+        "label": "B",
+        "text": "Paul"
+      },
+      {
+        "label": "C",
+        "text": "Moses"
+      },
+      {
+        "label": "D",
+        "text": "Isaiah"
+      }
+    ],
+    "answer": "Moses",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Moses."
+  },
+  {
+    "id": "mcq-166",
+    "difficulty": "Hard",
+    "question": "What was most likely the first Gospel written?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Matthew"
+      },
+      {
+        "label": "B",
+        "text": "Mark"
+      },
+      {
+        "label": "C",
+        "text": "Luke"
+      },
+      {
+        "label": "D",
+        "text": "John"
+      }
+    ],
+    "answer": "Mark",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Mark."
+  },
+  {
+    "id": "mcq-167",
+    "difficulty": "Hard",
+    "question": "What was most likely the first of Paul's letters written?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Galatians"
+      },
+      {
+        "label": "B",
+        "text": "Romans"
+      },
+      {
+        "label": "C",
+        "text": "1 Thessalonians"
+      },
+      {
+        "label": "D",
+        "text": "1 Corinthians"
+      }
+    ],
+    "answer": "1 Thessalonians",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: 1 Thessalonians."
+  },
+  {
+    "id": "mcq-168",
+    "difficulty": "Very Hard",
+    "question": "What prophet walked around naked for three years?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Micah"
+      },
+      {
+        "label": "B",
+        "text": "Jeremiah"
+      },
+      {
+        "label": "C",
+        "text": "Isaiah (20:3)"
+      },
+      {
+        "label": "D",
+        "text": "Ezekiel"
+      }
+    ],
+    "answer": "Isaiah (20:3)",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Isaiah (20:3)."
+  },
+  {
+    "id": "mcq-169",
+    "difficulty": "Very Hard",
+    "question": "Who went naked as a way of wailing over the fate of Jerusalem?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Isaiah"
+      },
+      {
+        "label": "B",
+        "text": "The prophet Micah (1:8)"
+      },
+      {
+        "label": "C",
+        "text": "Jeremiah"
+      },
+      {
+        "label": "D",
+        "text": "Ezekiel"
+      }
+    ],
+    "answer": "The prophet Micah (1:8)",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: The prophet Micah (1:8)."
+  },
+  {
+    "id": "mcq-170",
+    "difficulty": "Very Hard",
+    "question": "What king of Israel, struck with the power to prophesy, stripped off his clothes and lay naked for a whole day and night?",
+    "options": [
+      {
+        "label": "A",
+        "text": "David"
+      },
+      {
+        "label": "B",
+        "text": "Solomon"
+      },
+      {
+        "label": "C",
+        "text": "Saul (1 Samuel 19:24)"
+      },
+      {
+        "label": "D",
+        "text": "Jeroboam"
+      }
+    ],
+    "answer": "Saul (1 Samuel 19:24)",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Saul (1 Samuel 19:24)."
+  },
+  {
+    "id": "mcq-171",
+    "difficulty": "Very Hard",
+    "question": "What prophet threatened to take away the flax that covered his wife's nakedness?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hosea (2:3, 9)"
+      },
+      {
+        "label": "B",
+        "text": "Isaiah"
+      },
+      {
+        "label": "C",
+        "text": "Amos"
+      },
+      {
+        "label": "D",
+        "text": "Micah"
+      }
+    ],
+    "answer": "Hosea (2:3, 9)",
+    "answerLabel": "A",
+    "reference": "",
+    "explanation": "Correct answer: Hosea (2:3, 9)."
+  },
+  {
+    "id": "mcq-172",
+    "difficulty": "Very Hard",
+    "question": "Who laughed at Nehemiah's plans to rebuild Jerusalem?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The Philistines"
+      },
+      {
+        "label": "B",
+        "text": "Sanballat, Tobiah, and Geshem (Nehemiah 2:19)"
+      },
+      {
+        "label": "C",
+        "text": "The Ammonites"
+      },
+      {
+        "label": "D",
+        "text": "The Edomites"
+      }
+    ],
+    "answer": "Sanballat, Tobiah, and Geshem (Nehemiah 2:19)",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Sanballat, Tobiah, and Geshem (Nehemiah 2:19)."
+  },
+  {
+    "id": "mcq-173",
+    "difficulty": "Very Hard",
+    "question": "Who had his decree for a Passover celebration laughed at by the men of Israel?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Josiah"
+      },
+      {
+        "label": "B",
+        "text": "Hezekiah (2 Chronicles 30:5, 10)"
+      },
+      {
+        "label": "C",
+        "text": "Asa"
+      },
+      {
+        "label": "D",
+        "text": "Jehoshaphat"
+      }
+    ],
+    "answer": "Hezekiah (2 Chronicles 30:5, 10)",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Hezekiah (2 Chronicles 30:5, 10)."
+  },
+  {
+    "id": "mcq-174",
+    "difficulty": "Very Hard",
+    "question": "What tribe took wives from among the dancers at Shiloh?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Judah"
+      },
+      {
+        "label": "B",
+        "text": "Benjamin (Judges 21:20, 23)"
+      },
+      {
+        "label": "C",
+        "text": "Levi"
+      },
+      {
+        "label": "D",
+        "text": "Ephraim"
+      }
+    ],
+    "answer": "Benjamin (Judges 21:20, 23)",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Benjamin (Judges 21:20, 23)."
+  },
+  {
+    "id": "mcq-175",
+    "difficulty": "Very Hard",
+    "question": "According to Job, whose children dance around and make music?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The righteous"
+      },
+      {
+        "label": "B",
+        "text": "The children of the wicked (Job 21:7-12)"
+      },
+      {
+        "label": "C",
+        "text": "The children of Israel"
+      },
+      {
+        "label": "D",
+        "text": "The Levites"
+      }
+    ],
+    "answer": "The children of the wicked (Job 21:7-12)",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: The children of the wicked (Job 21:7-12)."
+  },
+  {
+    "id": "mcq-176",
+    "difficulty": "Very Hard",
+    "question": "Where was the first piggy bank?",
+    "options": [
+      {
+        "label": "A",
+        "text": "In the palace of Solomon"
+      },
+      {
+        "label": "B",
+        "text": "In the temple at Jerusalem; it was a chest, ordered by King Joash, who had a hole bored in the lid to keep priests from stealing funds (2 Kings 12)"
+      },
+      {
+        "label": "C",
+        "text": "In the treasury of Egypt"
+      },
+      {
+        "label": "D",
+        "text": "In the house of David"
+      }
+    ],
+    "answer": "In the temple at Jerusalem; it was a chest, ordered by King Joash, who had a hole bored in the lid to keep priests from stealing funds (2 Kings 12)",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: In the temple at Jerusalem; it was a chest, ordered by King Joash, who had a hole bored in the lid to keep priests from stealing funds (2 Kings 12)."
+  },
+  {
+    "id": "mcq-177",
+    "difficulty": "Very Hard",
+    "question": "Who used the first pseudonym?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Daniel"
+      },
+      {
+        "label": "B",
+        "text": "Esther, whose real name was Hadassah (Esther 2:7)"
+      },
+      {
+        "label": "C",
+        "text": "Paul"
+      },
+      {
+        "label": "D",
+        "text": "Peter"
+      }
+    ],
+    "answer": "Esther, whose real name was Hadassah (Esther 2:7)",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Esther, whose real name was Hadassah (Esther 2:7)."
+  },
+  {
+    "id": "mcq-178",
+    "difficulty": "Very Hard",
+    "question": "Who was the first single man to be exiled?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Abel"
+      },
+      {
+        "label": "B",
+        "text": "Cain (Genesis 4:12)"
+      },
+      {
+        "label": "C",
+        "text": "Adam"
+      },
+      {
+        "label": "D",
+        "text": "Noah"
+      }
+    ],
+    "answer": "Cain (Genesis 4:12)",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Cain (Genesis 4:12)."
+  },
+  {
+    "id": "mcq-179",
+    "difficulty": "Very Hard",
+    "question": "Who was the first judge of Israel?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gideon"
+      },
+      {
+        "label": "B",
+        "text": "Samson"
+      },
+      {
+        "label": "C",
+        "text": "Othniel (Judges 3:9)"
+      },
+      {
+        "label": "D",
+        "text": "Deborah"
+      }
+    ],
+    "answer": "Othniel (Judges 3:9)",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Othniel (Judges 3:9)."
+  },
+  {
+    "id": "mcq-180",
+    "difficulty": "Very Hard",
+    "question": "Who took the first census of the Hebrews?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Moses"
+      },
+      {
+        "label": "B",
+        "text": "Joshua"
+      },
+      {
+        "label": "C",
+        "text": "The priest Eleazar (Numbers 26:1-2)"
+      },
+      {
+        "label": "D",
+        "text": "Aaron183. What is the first daughter mentioned by name?"
+      }
+    ],
+    "answer": "The priest Eleazar (Numbers 26:1-2)",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: The priest Eleazar (Numbers 26:1-2)."
+  },
+  {
+    "id": "mcq-181",
+    "difficulty": "Very Hard",
+    "question": "Saul was the first king of Israel. Who was the second?",
+    "options": [
+      {
+        "label": "A",
+        "text": "David"
+      },
+      {
+        "label": "B",
+        "text": "Ishbosheth (2 Samuel 2:8-10)"
+      },
+      {
+        "label": "C",
+        "text": "Solomon"
+      },
+      {
+        "label": "D",
+        "text": "Abimelech"
+      }
+    ],
+    "answer": "Ishbosheth (2 Samuel 2:8-10)",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Ishbosheth (2 Samuel 2:8-10)."
+  },
+  {
+    "id": "mcq-182",
+    "difficulty": "Very Hard",
+    "question": "What three kings listened to the prophet Elisha as he prophesied to the accompaniment of a harp?",
+    "options": [
+      {
+        "label": "A",
+        "text": "David, Solomon, and Rehoboam"
+      },
+      {
+        "label": "B",
+        "text": "Joram of Israel, Jehoshaphat of Judah, and the king of Edom (2 Kings 3:11-19)"
+      },
+      {
+        "label": "C",
+        "text": "Ahab, Jehoshaphat, and Hezekiah"
+      },
+      {
+        "label": "D",
+        "text": "Jeroboam, Rehoboam, and Abijah"
+      }
+    ],
+    "answer": "Joram of Israel, Jehoshaphat of Judah, and the king of Edom (2 Kings 3:11-19)",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Joram of Israel, Jehoshaphat of Judah, and the king of Edom (2 Kings 3:11-19)."
+  },
+  {
+    "id": "mcq-183",
+    "difficulty": "Very Hard",
+    "question": "What king attacked the Israelites on their way into Canaan, only to be completely destroyed later?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The king of Jericho"
+      },
+      {
+        "label": "B",
+        "text": "The king of Arad (Numbers 21:1-3)"
+      },
+      {
+        "label": "C",
+        "text": "The king of Hazor"
+      },
+      {
+        "label": "D",
+        "text": "The king of Ai"
+      }
+    ],
+    "answer": "The king of Arad (Numbers 21:1-3)",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: The king of Arad (Numbers 21:1-3)."
+  },
+  {
+    "id": "mcq-184",
+    "difficulty": "Very Hard",
+    "question": "What king of Hazor organized an alliance against Joshua?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sisera"
+      },
+      {
+        "label": "B",
+        "text": "Jabin (Joshua 11:1-5)"
+      },
+      {
+        "label": "C",
+        "text": "Balak"
+      },
+      {
+        "label": "D",
+        "text": "Og"
+      }
+    ],
+    "answer": "Jabin (Joshua 11:1-5)",
+    "answerLabel": "B",
+    "reference": "",
+    "explanation": "Correct answer: Jabin (Joshua 11:1-5)."
+  },
+  {
+    "id": "mcq-185",
+    "difficulty": "Very Hard",
+    "question": "What king of Mesopotamia was sent by God to conquer the faithless Israelites?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cushan-Rishathaim (Judges 3:8)"
+      },
+      {
+        "label": "B",
+        "text": "Tiglath-Pileser"
+      },
+      {
+        "label": "C",
+        "text": "Sennacherib"
+      },
+      {
+        "label": "D",
+        "text": "Nebuchadnezzar"
+      }
+    ],
+    "answer": "Cushan-Rishathaim (Judges 3:8)",
+    "answerLabel": "A",
+    "reference": "",
+    "explanation": "Correct answer: Cushan-Rishathaim (Judges 3:8)."
+  },
+  {
+    "id": "mcq-186",
+    "difficulty": "Very Hard",
+    "question": "What prophet had a vision of a time when the Lord would gather the kings of the earth together and put them all in a pit?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jeremiah"
+      },
+      {
+        "label": "B",
+        "text": "Daniel"
+      },
+      {
+        "label": "C",
+        "text": "Isaiah (24:21-22)"
+      },
+      {
+        "label": "D",
+        "text": "Ezekiel"
+      }
+    ],
+    "answer": "Isaiah (24:21-22)",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Isaiah (24:21-22)."
+  },
+  {
+    "id": "mcq-187",
+    "difficulty": "Very Hard",
+    "question": "What Egyptian king gave refuge to Jeroboam when he fled from Solomon?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pharaoh Hophra"
+      },
+      {
+        "label": "B",
+        "text": "Pharaoh Neco"
+      },
+      {
+        "label": "C",
+        "text": "Shishak (1 Kings 11:40)"
+      },
+      {
+        "label": "D",
+        "text": "Pharaoh Ramses"
+      }
+    ],
+    "answer": "Shishak (1 Kings 11:40)",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Shishak (1 Kings 11:40)."
+  },
+  {
+    "id": "mcq-188",
+    "difficulty": "Very Hard",
+    "question": "What king of Israel reigned only seven days and killed himself by burning down his palace around him?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Shallum"
+      },
+      {
+        "label": "B",
+        "text": "Pekah"
+      },
+      {
+        "label": "C",
+        "text": "Zimri (1 Kings 16:15, 18)"
+      },
+      {
+        "label": "D",
+        "text": "Elah"
+      }
+    ],
+    "answer": "Zimri (1 Kings 16:15, 18)",
+    "answerLabel": "C",
+    "reference": "",
+    "explanation": "Correct answer: Zimri (1 Kings 16:15, 18)."
+  },
+  {
+    "id": "mcq-189",
+    "difficulty": "Very Hard",
+    "question": "What king of Ethiopia was supposed to aid Hezekiah in breaking the power of the Assyrians?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tirhakah (2 Kings 19:9)"
+      },
+      {
+        "label": "B",
+        "text": "Taharqa"
+      },
+      {
+        "label": "C",
+        "text": "Shabaka"
+      },
+      {
+        "label": "D",
+        "text": "Shebitku"
+      }
+    ],
+    "answer": "Tirhakah (2 Kings 19:9)",
+    "answerLabel": "A",
+    "reference": "",
+    "explanation": "Correct answer: Tirhakah (2 Kings 19:9)."
+  }
+]

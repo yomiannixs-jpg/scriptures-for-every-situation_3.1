@@ -1,0 +1,66 @@
+[
+  {
+    "id": "small-groups-faith",
+    "title": "7 Days of Faith for Small Groups",
+    "audience": "Small Groups",
+    "reference": "Hebrews 11:1",
+    "summary": "A group study plan for strengthening trust in God through Scripture, testimony, and prayer.",
+    "sessions": [
+      "What faith means in daily life",
+      "Faith during uncertainty",
+      "Faith that obeys",
+      "Faith and prayer",
+      "Faith in the family",
+      "Faith at work",
+      "Faith that endures"
+    ]
+  },
+  {
+    "id": "church-prayer",
+    "title": "30 Days of Church Prayer",
+    "audience": "Churches",
+    "reference": "Acts 2:42",
+    "summary": "A prayer rhythm for pastors, ministry teams, and congregations seeking revival and unity.",
+    "sessions": [
+      "Unity",
+      "Repentance",
+      "Pastoral strength",
+      "Evangelism",
+      "Discipleship",
+      "Families",
+      "Youth",
+      "Missions"
+    ]
+  },
+  {
+    "id": "family-altar",
+    "title": "Family Altar Weekly Guide",
+    "audience": "Families",
+    "reference": "Joshua 24:15",
+    "summary": "A simple weekly structure for household devotions, family prayers, and children's memory verses.",
+    "sessions": [
+      "Opening prayer",
+      "Bible story",
+      "Memory verse",
+      "Family discussion",
+      "Prayer requests",
+      "Declaration"
+    ]
+  },
+  {
+    "id": "youth-discipleship",
+    "title": "Youth Discipleship Circle",
+    "audience": "Youth",
+    "reference": "1 Timothy 4:12",
+    "summary": "A youth-centered group plan on identity, purity, courage, purpose, and standing for Christ.",
+    "sessions": [
+      "Identity",
+      "Courage",
+      "Purpose",
+      "Purity",
+      "Friendship",
+      "Digital wisdom",
+      "Service"
+    ]
+  }
+]

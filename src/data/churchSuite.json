@@ -1,0 +1,96 @@
+{
+  "modules": [
+    {
+      "id": "attendance",
+      "title": "Attendance Tracker",
+      "description": "Track church, cell group, youth meeting, family devotion, and Sunday school attendance.",
+      "fields": [
+        "Name",
+        "Group",
+        "Status",
+        "Notes"
+      ]
+    },
+    {
+      "id": "cell-groups",
+      "title": "Cell Groups",
+      "description": "Organize small groups, leaders, members, meeting days, and study focus.",
+      "fields": [
+        "Group name",
+        "Leader",
+        "Meeting day",
+        "Members"
+      ]
+    },
+    {
+      "id": "prayer-requests",
+      "title": "Prayer Requests",
+      "description": "Collect, track, and mark answered prayer requests for members and groups.",
+      "fields": [
+        "Request",
+        "Category",
+        "Status",
+        "Testimony"
+      ]
+    },
+    {
+      "id": "events",
+      "title": "Church Events",
+      "description": "Plan church events, reminders, dates, teams, and follow-up actions.",
+      "fields": [
+        "Event title",
+        "Date",
+        "Location",
+        "Team"
+      ]
+    },
+    {
+      "id": "announcements",
+      "title": "Announcements",
+      "description": "Prepare church announcements for services, groups, and app notifications.",
+      "fields": [
+        "Title",
+        "Message",
+        "Audience",
+        "Priority"
+      ]
+    },
+    {
+      "id": "volunteers",
+      "title": "Volunteer Management",
+      "description": "Manage workers, ministry roles, availability, and service assignments.",
+      "fields": [
+        "Volunteer",
+        "Role",
+        "Availability",
+        "Assignment"
+      ]
+    }
+  ],
+  "sampleGroups": [
+    {
+      "name": "Sunday School",
+      "leader": "Teacher",
+      "day": "Sunday",
+      "focus": "Bible basics"
+    },
+    {
+      "name": "Youth Fellowship",
+      "leader": "Youth Leader",
+      "day": "Friday",
+      "focus": "Discipleship"
+    },
+    {
+      "name": "Prayer Band",
+      "leader": "Prayer Coordinator",
+      "day": "Wednesday",
+      "focus": "Intercession"
+    },
+    {
+      "name": "Family Devotion Circle",
+      "leader": "Family Leader",
+      "day": "Saturday",
+      "focus": "Family altar"
+    }
+  ]
+}
